@@ -1,0 +1,1703 @@
+Sending shipments from 10.1.40.232:14707
+Sending shipment 1 to master server
+Processing message: <InsertCost><Cost>110861.1</Cost><AfterIndex>0</AfterIndex><TruckNumber>0</TruckNumber><Index>1</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>13667</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Processing message: <InsertCost><Cost>29546.0</Cost><AfterIndex>0</AfterIndex><TruckNumber>0</TruckNumber><Index>1</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>3966</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Processing message: <InsertCost><Cost>58723.89</Cost><AfterIndex>0</AfterIndex><TruckNumber>0</TruckNumber><Index>1</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>15720</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Processing message: <InsertCost><Cost>90043.055</Cost><AfterIndex>0</AfterIndex><TruckNumber>0</TruckNumber><Index>1</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>6251</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:13667; cost before: 110861.1
+Random cost generated for 10.1.40.232:6251; cost before: 90043.055
+Random cost generated for 10.1.40.232:15720; cost before: 58723.89
+Random cost generated for 10.1.40.232:3966; cost before: 29546.0
+Random cost generated for 10.1.40.232:13667; cost after: 110861.1
+Bid for customer  1 by 10.1.40.232:13667 is $110861.1
+Random cost generated for 10.1.40.232:3966; cost after: 29546.0
+Bid for customer  1 by 10.1.40.232:3966 is $29546.0
+Random cost generated for 10.1.40.232:15720; cost after: 58723.89
+Bid for customer  1 by 10.1.40.232:15720 is $58723.89
+Random cost generated for 10.1.40.232:6251; cost after: 90043.055
+Bid for customer  1 by 10.1.40.232:6251 is $90043.055
+Shipment 1 was accepted for carrier 10.1.40.232:3966
+Processing message: <Confirm><Index>1</Index></Confirm>
+Sending shipment 2 to master server
+Processing message: <InsertCost><Cost>101906.33</Cost><AfterIndex>0</AfterIndex><TruckNumber>0</TruckNumber><Index>2</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>13667</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:13667; cost before: 101906.33
+Random cost generated for 10.1.40.232:13667; cost after: 101906.33
+Bid for customer  2 by 10.1.40.232:13667 is $101906.33
+Processing message: <InsertCost><Cost>29065.76</Cost><AfterIndex>0</AfterIndex><TruckNumber>0</TruckNumber><Index>2</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>3966</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Bid for customer  2 by 10.1.40.232:3966 is $29065.76
+Processing message: <InsertCost><Cost>55809.28</Cost><AfterIndex>0</AfterIndex><TruckNumber>0</TruckNumber><Index>2</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>15720</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Processing message: <InsertCost><Cost>83528.13</Cost><AfterIndex>0</AfterIndex><TruckNumber>0</TruckNumber><Index>2</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>6251</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:15720; cost before: 55809.28
+Random cost generated for 10.1.40.232:6251; cost before: 83528.13
+Random cost generated for 10.1.40.232:15720; cost after: 55809.28
+Random cost generated for 10.1.40.232:6251; cost after: 83528.13
+Bid for customer  2 by 10.1.40.232:15720 is $55809.28
+Bid for customer  2 by 10.1.40.232:6251 is $83528.13
+Shipment 2 was accepted for carrier 10.1.40.232:3966
+Processing message: <Confirm><Index>2</Index></Confirm>
+Sending shipment 3 to master server
+Processing message: <InsertCost><Cost>128.99612</Cost><AfterIndex>0</AfterIndex><TruckNumber>0</TruckNumber><Index>3</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>13667</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:13667; cost before: 128.99612
+Random cost generated for 10.1.40.232:13667; cost after: 128.99612
+Bid for customer  3 by 10.1.40.232:13667 is $128.99612
+Processing message: <InsertCost><Cost>63.560993</Cost><AfterIndex>0</AfterIndex><TruckNumber>0</TruckNumber><Index>3</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>15720</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:15720; cost before: 63.560993
+Random cost generated for 10.1.40.232:15720; cost after: 63.561028
+Bid for customer  3 by 10.1.40.232:15720 is $63.561028
+Processing message: <InsertCost><Cost>29609.984</Cost><AfterIndex>0</AfterIndex><TruckNumber>0</TruckNumber><Index>3</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>3966</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Processing message: <InsertCost><Cost>101.98039</Cost><AfterIndex>0</AfterIndex><TruckNumber>0</TruckNumber><Index>3</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>6251</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Bid for customer  3 by 10.1.40.232:3966 is $29609.984
+Random cost generated for 10.1.40.232:6251; cost before: 101.98039
+Random cost generated for 10.1.40.232:6251; cost after: 101.98044
+Bid for customer  3 by 10.1.40.232:6251 is $101.98044
+Shipment 3 was accepted for carrier 10.1.40.232:15720
+Processing message: <Confirm><Index>3</Index></Confirm>
+Sending shipment 4 to master server
+Processing message: <InsertCost><Cost>83962.77</Cost><AfterIndex>0</AfterIndex><TruckNumber>0</TruckNumber><Index>4</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>13667</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:13667; cost before: 83962.77
+Random cost generated for 10.1.40.232:13667; cost after: 83962.77
+Bid for customer  4 by 10.1.40.232:13667 is $83962.77
+Processing message: <InsertCost><Cost>29176.428</Cost><AfterIndex>0</AfterIndex><TruckNumber>0</TruckNumber><Index>4</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>3966</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Bid for customer  4 by 10.1.40.232:3966 is $29176.428
+Processing message: <InsertCost><Cost>38903.316</Cost><AfterIndex>3</AfterIndex><TruckNumber>0</TruckNumber><Index>4</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>15720</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:15720; cost before: 38903.316
+Random cost generated for 10.1.40.232:15720; cost after: 38903.316
+Bid for customer  4 by 10.1.40.232:15720 is $38903.316
+Processing message: <InsertCost><Cost>68346.12</Cost><AfterIndex>0</AfterIndex><TruckNumber>0</TruckNumber><Index>4</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>6251</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:6251; cost before: 68346.12
+Random cost generated for 10.1.40.232:6251; cost after: 68346.12
+Bid for customer  4 by 10.1.40.232:6251 is $68346.12
+Shipment 4 was accepted for carrier 10.1.40.232:3966
+Processing message: <Confirm><Index>4</Index></Confirm>
+Sending shipment 5 to master server
+Processing message: <InsertCost><Cost>127.263504</Cost><AfterIndex>0</AfterIndex><TruckNumber>0</TruckNumber><Index>5</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>13667</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:13667; cost before: 127.263504
+Random cost generated for 10.1.40.232:13667; cost after: 127.26353
+Bid for customer  5 by 10.1.40.232:13667 is $127.26353
+Processing message: <InsertCost><Cost>61.611687</Cost><AfterIndex>0</AfterIndex><TruckNumber>0</TruckNumber><Index>5</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>15720</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:15720; cost before: 61.611687
+Random cost generated for 10.1.40.232:15720; cost after: 61.611713
+Bid for customer  5 by 10.1.40.232:15720 is $61.611713
+Processing message: <InsertCost><Cost>22485.13</Cost><AfterIndex>0</AfterIndex><TruckNumber>0</TruckNumber><Index>5</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>3966</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Bid for customer  5 by 10.1.40.232:3966 is $22485.13
+Processing message: <InsertCost><Cost>100.17984</Cost><AfterIndex>0</AfterIndex><TruckNumber>0</TruckNumber><Index>5</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>6251</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:6251; cost before: 100.17984
+Random cost generated for 10.1.40.232:6251; cost after: 100.179855
+Bid for customer  5 by 10.1.40.232:6251 is $100.179855
+Shipment 5 was accepted for carrier 10.1.40.232:15720
+Processing message: <Confirm><Index>5</Index></Confirm>
+Sending shipment 6 to master server
+Processing message: <InsertCost><Cost>68149.76</Cost><AfterIndex>0</AfterIndex><TruckNumber>0</TruckNumber><Index>6</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>13667</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:13667; cost before: 68149.76
+Random cost generated for 10.1.40.232:13667; cost after: 68149.76
+Bid for customer  6 by 10.1.40.232:13667 is $68149.76
+Processing message: <InsertCost><Cost>19919.092</Cost><AfterIndex>3</AfterIndex><TruckNumber>0</TruckNumber><Index>6</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>3966</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Bid for customer  6 by 10.1.40.232:3966 is $19919.092
+Processing message: <InsertCost><Cost>37570.92</Cost><AfterIndex>0</AfterIndex><TruckNumber>0</TruckNumber><Index>6</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>15720</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:15720; cost before: 37570.92
+Random cost generated for 10.1.40.232:15720; cost after: 37570.92
+Bid for customer  6 by 10.1.40.232:15720 is $37570.92
+Processing message: <InsertCost><Cost>55896.234</Cost><AfterIndex>0</AfterIndex><TruckNumber>0</TruckNumber><Index>6</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>6251</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:6251; cost before: 55896.234
+Random cost generated for 10.1.40.232:6251; cost after: 55896.234
+Bid for customer  6 by 10.1.40.232:6251 is $55896.234
+Shipment 6 was accepted for carrier 10.1.40.232:3966
+Processing message: <Confirm><Index>6</Index></Confirm>
+Sending shipment 7 to master server
+Processing message: <InsertCost><Cost>10097.442</Cost><AfterIndex>0</AfterIndex><TruckNumber>0</TruckNumber><Index>7</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>13667</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:13667; cost before: 10097.442
+Random cost generated for 10.1.40.232:13667; cost after: 10097.442
+Bid for customer  7 by 10.1.40.232:13667 is $10097.442
+Processing message: <InsertCost><Cost>15970.073</Cost><AfterIndex>3</AfterIndex><TruckNumber>0</TruckNumber><Index>7</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>3966</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Bid for customer  7 by 10.1.40.232:3966 is $15970.073
+Processing message: <InsertCost><Cost>7008.582</Cost><AfterIndex>0</AfterIndex><TruckNumber>0</TruckNumber><Index>7</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>15720</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Processing message: <InsertCost><Cost>9313.687</Cost><AfterIndex>0</AfterIndex><TruckNumber>0</TruckNumber><Index>7</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>6251</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:15720; cost before: 7008.582
+Random cost generated for 10.1.40.232:6251; cost before: 9313.687
+Random cost generated for 10.1.40.232:15720; cost after: 7008.582
+Random cost generated for 10.1.40.232:6251; cost after: 9313.687
+Bid for customer  7 by 10.1.40.232:15720 is $7008.582
+Bid for customer  7 by 10.1.40.232:6251 is $9313.687
+Shipment 7 was accepted for carrier 10.1.40.232:15720
+Processing message: <Confirm><Index>7</Index></Confirm>
+Sending shipment 8 to master server
+Processing message: <InsertCost><Cost>11886.434</Cost><AfterIndex>7</AfterIndex><TruckNumber>0</TruckNumber><Index>8</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>3966</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Bid for customer  8 by 10.1.40.232:3966 is $11886.434
+Processing message: <InsertCost><Cost>20170.996</Cost><AfterIndex>0</AfterIndex><TruckNumber>0</TruckNumber><Index>8</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>13667</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:13667; cost before: 20170.996
+Random cost generated for 10.1.40.232:13667; cost after: 20170.996
+Bid for customer  8 by 10.1.40.232:13667 is $20170.996
+Processing message: <InsertCost><Cost>12450.148</Cost><AfterIndex>0</AfterIndex><TruckNumber>0</TruckNumber><Index>8</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>15720</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:15720; cost before: 12450.148
+Random cost generated for 10.1.40.232:15720; cost after: 12450.148
+Bid for customer  8 by 10.1.40.232:15720 is $12450.148
+Processing message: <InsertCost><Cost>17402.697</Cost><AfterIndex>0</AfterIndex><TruckNumber>0</TruckNumber><Index>8</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>6251</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:6251; cost before: 17402.697
+Random cost generated for 10.1.40.232:6251; cost after: 17402.697
+Bid for customer  8 by 10.1.40.232:6251 is $17402.697
+Shipment 8 was accepted for carrier 10.1.40.232:3966
+Processing message: <Confirm><Index>8</Index></Confirm>
+Sending shipment 9 to master server
+Processing message: <InsertCost><Cost>57443.78</Cost><AfterIndex>0</AfterIndex><TruckNumber>0</TruckNumber><Index>9</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>13667</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:13667; cost before: 57443.78
+Random cost generated for 10.1.40.232:13667; cost after: 57443.78
+Bid for customer  9 by 10.1.40.232:13667 is $57443.78
+Processing message: <InsertCost><Cost>32660.338</Cost><AfterIndex>0</AfterIndex><TruckNumber>0</TruckNumber><Index>9</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>15720</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:15720; cost before: 32660.338
+Random cost generated for 10.1.40.232:15720; cost after: 32660.338
+Bid for customer  9 by 10.1.40.232:15720 is $32660.338
+Processing message: <InsertCost><Cost>7417.1924</Cost><AfterIndex>8</AfterIndex><TruckNumber>0</TruckNumber><Index>9</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>3966</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Bid for customer  9 by 10.1.40.232:3966 is $7417.1924
+Processing message: <InsertCost><Cost>47493.32</Cost><AfterIndex>0</AfterIndex><TruckNumber>0</TruckNumber><Index>9</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>6251</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:6251; cost before: 47493.32
+Random cost generated for 10.1.40.232:6251; cost after: 47493.32
+Bid for customer  9 by 10.1.40.232:6251 is $47493.32
+Shipment 9 was accepted for carrier 10.1.40.232:3966
+Processing message: <Confirm><Index>9</Index></Confirm>
+Sending shipment 10 to master server
+Processing message: <InsertCost><Cost>33199.12</Cost><AfterIndex>0</AfterIndex><TruckNumber>0</TruckNumber><Index>10</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>13667</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:13667; cost before: 33199.12
+Random cost generated for 10.1.40.232:13667; cost after: 33199.12
+Bid for customer  10 by 10.1.40.232:13667 is $33199.12
+Processing message: <InsertCost><Cost>18662.0</Cost><AfterIndex>0</AfterIndex><TruckNumber>0</TruckNumber><Index>10</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>15720</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:15720; cost before: 18662.0
+Random cost generated for 10.1.40.232:15720; cost after: 18662.0
+Bid for customer  10 by 10.1.40.232:15720 is $18662.0
+Processing message: <InsertCost><Cost>2516.4832</Cost><AfterIndex>8</AfterIndex><TruckNumber>0</TruckNumber><Index>10</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>3966</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Processing message: <InsertCost><Cost>27444.896</Cost><AfterIndex>0</AfterIndex><TruckNumber>0</TruckNumber><Index>10</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>6251</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Bid for customer  10 by 10.1.40.232:3966 is $2516.4832
+Random cost generated for 10.1.40.232:6251; cost before: 27444.896
+Random cost generated for 10.1.40.232:6251; cost after: 27444.896
+Bid for customer  10 by 10.1.40.232:6251 is $27444.896
+Shipment 10 was accepted for carrier 10.1.40.232:3966
+Processing message: <Confirm><Index>10</Index></Confirm>
+Sending shipment 11 to master server
+Processing message: <InsertCost><Cost>45741.746</Cost><AfterIndex>0</AfterIndex><TruckNumber>0</TruckNumber><Index>11</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>13667</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:13667; cost before: 45741.746
+Random cost generated for 10.1.40.232:13667; cost after: 45741.746
+Bid for customer  11 by 10.1.40.232:13667 is $45741.746
+Processing message: <InsertCost><Cost>26316.0</Cost><AfterIndex>0</AfterIndex><TruckNumber>0</TruckNumber><Index>11</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>15720</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:15720; cost before: 26316.0
+Random cost generated for 10.1.40.232:15720; cost after: 26316.0
+Bid for customer  11 by 10.1.40.232:15720 is $26316.0
+Processing message: <InsertCost><Cost>23466.988</Cost><AfterIndex>0</AfterIndex><TruckNumber>1</TruckNumber><Index>11</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>3966</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Bid for customer  11 by 10.1.40.232:3966 is $23466.988
+Processing message: <InsertCost><Cost>37895.88</Cost><AfterIndex>0</AfterIndex><TruckNumber>0</TruckNumber><Index>11</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>6251</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:6251; cost before: 37895.88
+Random cost generated for 10.1.40.232:6251; cost after: 37895.88
+Bid for customer  11 by 10.1.40.232:6251 is $37895.88
+Shipment 11 was accepted for carrier 10.1.40.232:3966
+Processing message: <Confirm><Index>11</Index></Confirm>
+Sending shipment 12 to master server
+Processing message: <InsertCost><Cost>49523.73</Cost><AfterIndex>0</AfterIndex><TruckNumber>1</TruckNumber><Index>12</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>3966</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Processing message: <InsertCost><Cost>82835.82</Cost><AfterIndex>0</AfterIndex><TruckNumber>0</TruckNumber><Index>12</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>13667</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Bid for customer  12 by 10.1.40.232:3966 is $49523.73
+Random cost generated for 10.1.40.232:13667; cost before: 82835.82
+Random cost generated for 10.1.40.232:13667; cost after: 82835.82
+Bid for customer  12 by 10.1.40.232:13667 is $82835.82
+Processing message: <InsertCost><Cost>72077.34</Cost><AfterIndex>0</AfterIndex><TruckNumber>0</TruckNumber><Index>12</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>6251</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:6251; cost before: 72077.34
+Random cost generated for 10.1.40.232:6251; cost after: 72077.34
+Bid for customer  12 by 10.1.40.232:6251 is $72077.34
+Processing message: <InsertCost><Cost>57823.883</Cost><AfterIndex>0</AfterIndex><TruckNumber>0</TruckNumber><Index>12</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>15720</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:15720; cost before: 57823.883
+Random cost generated for 10.1.40.232:15720; cost after: 57823.883
+Bid for customer  12 by 10.1.40.232:15720 is $57823.883
+Shipment 12 was accepted for carrier 10.1.40.232:3966
+Processing message: <Confirm><Index>12</Index></Confirm>
+Sending shipment 13 to master server
+Processing message: <InsertCost><Cost>132.19682</Cost><AfterIndex>0</AfterIndex><TruckNumber>0</TruckNumber><Index>13</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>13667</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:13667; cost before: 132.19682
+Random cost generated for 10.1.40.232:13667; cost after: 132.19687
+Bid for customer  13 by 10.1.40.232:13667 is $132.19687
+Processing message: <InsertCost><Cost>37165.227</Cost><AfterIndex>0</AfterIndex><TruckNumber>0</TruckNumber><Index>13</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>3966</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Bid for customer  13 by 10.1.40.232:3966 is $37165.227
+Processing message: <InsertCost><Cost>84.118965</Cost><AfterIndex>0</AfterIndex><TruckNumber>0</TruckNumber><Index>13</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>15720</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:15720; cost before: 84.118965
+Random cost generated for 10.1.40.232:15720; cost after: 84.11901
+Bid for customer  13 by 10.1.40.232:15720 is $84.11901
+Processing message: <InsertCost><Cost>110.0727</Cost><AfterIndex>0</AfterIndex><TruckNumber>0</TruckNumber><Index>13</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>6251</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:6251; cost before: 110.0727
+Random cost generated for 10.1.40.232:6251; cost after: 110.07279
+Bid for customer  13 by 10.1.40.232:6251 is $110.07279
+Shipment 13 was accepted for carrier 10.1.40.232:15720
+Processing message: <Confirm><Index>13</Index></Confirm>
+Sending shipment 14 to master server
+Processing message: <InsertCost><Cost>70796.06</Cost><AfterIndex>0</AfterIndex><TruckNumber>0</TruckNumber><Index>14</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>13667</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:13667; cost before: 70796.06
+Random cost generated for 10.1.40.232:13667; cost after: 70796.06
+Bid for customer  14 by 10.1.40.232:13667 is $70796.06
+Processing message: <InsertCost><Cost>42052.566</Cost><AfterIndex>3</AfterIndex><TruckNumber>0</TruckNumber><Index>14</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>3966</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Bid for customer  14 by 10.1.40.232:3966 is $42052.566
+Processing message: <InsertCost><Cost>41482.57</Cost><AfterIndex>13</AfterIndex><TruckNumber>0</TruckNumber><Index>14</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>15720</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:15720; cost before: 41482.57
+Random cost generated for 10.1.40.232:15720; cost after: 41482.57
+Bid for customer  14 by 10.1.40.232:15720 is $41482.57
+Processing message: <InsertCost><Cost>62035.348</Cost><AfterIndex>0</AfterIndex><TruckNumber>0</TruckNumber><Index>14</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>6251</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:6251; cost before: 62035.348
+Random cost generated for 10.1.40.232:6251; cost after: 62035.348
+Bid for customer  14 by 10.1.40.232:6251 is $62035.348
+Shipment 14 was accepted for carrier 10.1.40.232:15720
+Processing message: <Confirm><Index>14</Index></Confirm>
+Sending shipment 15 to master server
+Processing message: <InsertCost><Cost>41335.95</Cost><AfterIndex>0</AfterIndex><TruckNumber>0</TruckNumber><Index>15</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>13667</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:13667; cost before: 41335.95
+Random cost generated for 10.1.40.232:13667; cost after: 41335.95
+Bid for customer  15 by 10.1.40.232:13667 is $41335.95
+Processing message: <InsertCost><Cost>21590.732</Cost><AfterIndex>3</AfterIndex><TruckNumber>0</TruckNumber><Index>15</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>3966</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Bid for customer  15 by 10.1.40.232:3966 is $21590.732
+Processing message: <InsertCost><Cost>29937.203</Cost><AfterIndex>0</AfterIndex><TruckNumber>0</TruckNumber><Index>15</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>15720</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:15720; cost before: 29937.203
+Random cost generated for 10.1.40.232:15720; cost after: 29937.203
+Bid for customer  15 by 10.1.40.232:15720 is $29937.203
+Processing message: <InsertCost><Cost>36360.0</Cost><AfterIndex>0</AfterIndex><TruckNumber>0</TruckNumber><Index>15</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>6251</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:6251; cost before: 36360.0
+Random cost generated for 10.1.40.232:6251; cost after: 36360.0
+Bid for customer  15 by 10.1.40.232:6251 is $36360.0
+Shipment 15 was accepted for carrier 10.1.40.232:3966
+Processing message: <Confirm><Index>15</Index></Confirm>
+Sending shipment 16 to master server
+Processing message: <InsertCost><Cost>50846.1</Cost><AfterIndex>0</AfterIndex><TruckNumber>2</TruckNumber><Index>16</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>3966</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Bid for customer  16 by 10.1.40.232:3966 is $50846.1
+Processing message: <InsertCost><Cost>56496.027</Cost><AfterIndex>0</AfterIndex><TruckNumber>0</TruckNumber><Index>16</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>13667</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:13667; cost before: 56496.027
+Random cost generated for 10.1.40.232:13667; cost after: 56496.027
+Bid for customer  16 by 10.1.40.232:13667 is $56496.027
+Processing message: <InsertCost><Cost>41426.977</Cost><AfterIndex>0</AfterIndex><TruckNumber>0</TruckNumber><Index>16</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>15720</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:15720; cost before: 41426.977
+Random cost generated for 10.1.40.232:15720; cost after: 41426.977
+Bid for customer  16 by 10.1.40.232:15720 is $41426.977
+Processing message: <InsertCost><Cost>49920.0</Cost><AfterIndex>0</AfterIndex><TruckNumber>0</TruckNumber><Index>16</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>6251</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:6251; cost before: 49920.0
+Random cost generated for 10.1.40.232:6251; cost after: 49920.0
+Bid for customer  16 by 10.1.40.232:6251 is $49920.0
+Shipment 16 was accepted for carrier 10.1.40.232:15720
+Processing message: <Confirm><Index>16</Index></Confirm>
+Sending shipment 17 to master server
+Processing message: <InsertCost><Cost>1749.5442</Cost><AfterIndex>3</AfterIndex><TruckNumber>0</TruckNumber><Index>17</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>3966</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Processing message: <InsertCost><Cost>2828.3193</Cost><AfterIndex>0</AfterIndex><TruckNumber>0</TruckNumber><Index>17</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>15720</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Bid for customer  17 by 10.1.40.232:3966 is $1749.5442
+Random cost generated for 10.1.40.232:15720; cost before: 2828.3193
+Random cost generated for 10.1.40.232:15720; cost after: 2828.3193
+Bid for customer  17 by 10.1.40.232:15720 is $2828.3193
+Processing message: <InsertCost><Cost>1376.5497</Cost><AfterIndex>0</AfterIndex><TruckNumber>0</TruckNumber><Index>17</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>13667</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:13667; cost before: 1376.5497
+Random cost generated for 10.1.40.232:13667; cost after: 1376.5498
+Bid for customer  17 by 10.1.40.232:13667 is $1376.5498
+Processing message: <InsertCost><Cost>2307.5256</Cost><AfterIndex>0</AfterIndex><TruckNumber>0</TruckNumber><Index>17</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>6251</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:6251; cost before: 2307.5256
+Random cost generated for 10.1.40.232:6251; cost after: 2307.5256
+Bid for customer  17 by 10.1.40.232:6251 is $2307.5256
+Shipment 17 was accepted for carrier 10.1.40.232:13667
+Processing message: <Confirm><Index>17</Index></Confirm>
+Sending shipment 18 to master server
+Processing message: <InsertCost><Cost>10144.919</Cost><AfterIndex>0</AfterIndex><TruckNumber>0</TruckNumber><Index>18</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>13667</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:13667; cost before: 10144.919
+Random cost generated for 10.1.40.232:13667; cost after: 10144.919
+Bid for customer  18 by 10.1.40.232:13667 is $10144.919
+Processing message: <InsertCost><Cost>10815.715</Cost><AfterIndex>0</AfterIndex><TruckNumber>2</TruckNumber><Index>18</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>3966</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Bid for customer  18 by 10.1.40.232:3966 is $10815.715
+Processing message: <InsertCost><Cost>8790.309</Cost><AfterIndex>0</AfterIndex><TruckNumber>0</TruckNumber><Index>18</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>15720</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:15720; cost before: 8790.309
+Random cost generated for 10.1.40.232:15720; cost after: 8790.309
+Bid for customer  18 by 10.1.40.232:15720 is $8790.309
+Processing message: <InsertCost><Cost>9694.866</Cost><AfterIndex>0</AfterIndex><TruckNumber>0</TruckNumber><Index>18</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>6251</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:6251; cost before: 9694.866
+Random cost generated for 10.1.40.232:6251; cost after: 9694.866
+Bid for customer  18 by 10.1.40.232:6251 is $9694.866
+Shipment 18 was accepted for carrier 10.1.40.232:15720
+Processing message: <Confirm><Index>18</Index></Confirm>
+Sending shipment 19 to master server
+Processing message: <InsertCost><Cost>24537.389</Cost><AfterIndex>0</AfterIndex><TruckNumber>0</TruckNumber><Index>19</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>13667</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:13667; cost before: 24537.389
+Random cost generated for 10.1.40.232:13667; cost after: 24537.389
+Bid for customer  19 by 10.1.40.232:13667 is $24537.389
+Processing message: <InsertCost><Cost>21029.246</Cost><AfterIndex>0</AfterIndex><TruckNumber>2</TruckNumber><Index>19</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>3966</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Bid for customer  19 by 10.1.40.232:3966 is $21029.246
+Processing message: <InsertCost><Cost>10418.97</Cost><AfterIndex>18</AfterIndex><TruckNumber>0</TruckNumber><Index>19</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>15720</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:15720; cost before: 10418.97
+Random cost generated for 10.1.40.232:15720; cost after: 10418.97
+Bid for customer  19 by 10.1.40.232:15720 is $10418.97
+Processing message: <InsertCost><Cost>22251.906</Cost><AfterIndex>0</AfterIndex><TruckNumber>0</TruckNumber><Index>19</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>6251</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:6251; cost before: 22251.906
+Random cost generated for 10.1.40.232:6251; cost after: 22251.906
+Bid for customer  19 by 10.1.40.232:6251 is $22251.906
+Shipment 19 was accepted for carrier 10.1.40.232:15720
+Processing message: <Confirm><Index>19</Index></Confirm>
+Sending shipment 20 to master server
+Processing message: <InsertCost><Cost>89.44272</Cost><AfterIndex>0</AfterIndex><TruckNumber>0</TruckNumber><Index>20</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>13667</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:13667; cost before: 89.44272
+Random cost generated for 10.1.40.232:13667; cost after: 89.44275
+Bid for customer  20 by 10.1.40.232:13667 is $89.44275
+Processing message: <InsertCost><Cost>1812.7898</Cost><AfterIndex>0</AfterIndex><TruckNumber>2</TruckNumber><Index>20</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>3966</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Bid for customer  20 by 10.1.40.232:3966 is $1812.7898
+Processing message: <InsertCost><Cost>1491.5157</Cost><AfterIndex>0</AfterIndex><TruckNumber>0</TruckNumber><Index>20</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>15720</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:15720; cost before: 1491.5157
+Random cost generated for 10.1.40.232:15720; cost after: 1491.5157
+Bid for customer  20 by 10.1.40.232:15720 is $1491.5157
+Processing message: <InsertCost><Cost>63.245552</Cost><AfterIndex>0</AfterIndex><TruckNumber>0</TruckNumber><Index>20</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>6251</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:6251; cost before: 63.245552
+Random cost generated for 10.1.40.232:6251; cost after: 63.245644
+Bid for customer  20 by 10.1.40.232:6251 is $63.245644
+Shipment 20 was accepted for carrier 10.1.40.232:6251
+Processing message: <Confirm><Index>20</Index></Confirm>
+Sending shipment 21 to master server
+Processing message: <InsertCost><Cost>78382.45</Cost><AfterIndex>0</AfterIndex><TruckNumber>0</TruckNumber><Index>21</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>13667</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:13667; cost before: 78382.45
+Random cost generated for 10.1.40.232:13667; cost after: 78382.45
+Bid for customer  21 by 10.1.40.232:13667 is $78382.45
+Processing message: <InsertCost><Cost>57361.418</Cost><AfterIndex>0</AfterIndex><TruckNumber>0</TruckNumber><Index>21</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>6251</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:6251; cost before: 57361.418
+Random cost generated for 10.1.40.232:6251; cost after: 57361.418
+Bid for customer  21 by 10.1.40.232:6251 is $57361.418
+Processing message: <InsertCost><Cost>53431.926</Cost><AfterIndex>19</AfterIndex><TruckNumber>0</TruckNumber><Index>21</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>15720</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:15720; cost before: 53431.926
+Random cost generated for 10.1.40.232:15720; cost after: 53431.926
+Bid for customer  21 by 10.1.40.232:15720 is $53431.926
+Processing message: <InsertCost><Cost>21528.773</Cost><AfterIndex>12</AfterIndex><TruckNumber>1</TruckNumber><Index>21</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>3966</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Bid for customer  21 by 10.1.40.232:3966 is $21528.773
+Shipment 21 was accepted for carrier 10.1.40.232:3966
+Processing message: <Confirm><Index>21</Index></Confirm>
+Sending shipment 22 to master server
+Processing message: <InsertCost><Cost>66833.47</Cost><AfterIndex>0</AfterIndex><TruckNumber>0</TruckNumber><Index>22</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>13667</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:13667; cost before: 66833.47
+Random cost generated for 10.1.40.232:13667; cost after: 66833.47
+Bid for customer  22 by 10.1.40.232:13667 is $66833.47
+Processing message: <InsertCost><Cost>64561.56</Cost><AfterIndex>0</AfterIndex><TruckNumber>2</TruckNumber><Index>22</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>3966</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Processing message: <InsertCost><Cost>42284.598</Cost><AfterIndex>19</AfterIndex><TruckNumber>0</TruckNumber><Index>22</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>15720</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Bid for customer  22 by 10.1.40.232:3966 is $64561.56
+Random cost generated for 10.1.40.232:15720; cost before: 42284.598
+Random cost generated for 10.1.40.232:15720; cost after: 42284.598
+Bid for customer  22 by 10.1.40.232:15720 is $42284.598
+Processing message: <InsertCost><Cost>49082.445</Cost><AfterIndex>0</AfterIndex><TruckNumber>0</TruckNumber><Index>22</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>6251</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:6251; cost before: 49082.445
+Random cost generated for 10.1.40.232:6251; cost after: 49082.445
+Bid for customer  22 by 10.1.40.232:6251 is $49082.445
+Shipment 22 was accepted for carrier 10.1.40.232:15720
+Processing message: <Confirm><Index>22</Index></Confirm>
+Sending shipment 23 to master server
+Processing message: <InsertCost><Cost>36498.297</Cost><AfterIndex>19</AfterIndex><TruckNumber>0</TruckNumber><Index>23</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>15720</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Processing message: <InsertCost><Cost>64124.406</Cost><AfterIndex>0</AfterIndex><TruckNumber>0</TruckNumber><Index>23</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>13667</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:15720; cost before: 36498.297
+Random cost generated for 10.1.40.232:15720; cost after: 36498.297
+Bid for customer  23 by 10.1.40.232:15720 is $36498.297
+Random cost generated for 10.1.40.232:13667; cost before: 64124.406
+Random cost generated for 10.1.40.232:13667; cost after: 64124.406
+Bid for customer  23 by 10.1.40.232:13667 is $64124.406
+Processing message: <InsertCost><Cost>1894.43</Cost><AfterIndex>12</AfterIndex><TruckNumber>1</TruckNumber><Index>23</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>3966</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Bid for customer  23 by 10.1.40.232:3966 is $1894.43
+Processing message: <InsertCost><Cost>48403.758</Cost><AfterIndex>0</AfterIndex><TruckNumber>0</TruckNumber><Index>23</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>6251</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:6251; cost before: 48403.758
+Random cost generated for 10.1.40.232:6251; cost after: 48403.758
+Bid for customer  23 by 10.1.40.232:6251 is $48403.758
+Shipment 23 was accepted for carrier 10.1.40.232:3966
+Processing message: <Confirm><Index>23</Index></Confirm>
+Sending shipment 24 to master server
+Processing message: <InsertCost><Cost>28602.383</Cost><AfterIndex>0</AfterIndex><TruckNumber>0</TruckNumber><Index>24</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>15720</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:15720; cost before: 28602.383
+Processing message: <InsertCost><Cost>85.44004</Cost><AfterIndex>0</AfterIndex><TruckNumber>0</TruckNumber><Index>24</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>13667</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:15720; cost after: 28602.383
+Bid for customer  24 by 10.1.40.232:15720 is $28602.383
+Random cost generated for 10.1.40.232:13667; cost before: 85.44004
+Random cost generated for 10.1.40.232:13667; cost after: 85.44012
+Bid for customer  24 by 10.1.40.232:13667 is $85.44012
+Processing message: <InsertCost><Cost>60.827625</Cost><AfterIndex>0</AfterIndex><TruckNumber>0</TruckNumber><Index>24</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>6251</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:6251; cost before: 60.827625
+Random cost generated for 10.1.40.232:6251; cost after: 60.827663
+Bid for customer  24 by 10.1.40.232:6251 is $60.827663
+Processing message: <InsertCost><Cost>1822.3453</Cost><AfterIndex>0</AfterIndex><TruckNumber>2</TruckNumber><Index>24</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>3966</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Bid for customer  24 by 10.1.40.232:3966 is $1822.3453
+Shipment 24 was accepted for carrier 10.1.40.232:6251
+Processing message: <Confirm><Index>24</Index></Confirm>
+Sending shipment 25 to master server
+Processing message: <InsertCost><Cost>8777.087</Cost><AfterIndex>0</AfterIndex><TruckNumber>0</TruckNumber><Index>25</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>13667</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:13667; cost before: 8777.087
+Random cost generated for 10.1.40.232:13667; cost after: 8777.087
+Bid for customer  25 by 10.1.40.232:13667 is $8777.087
+Processing message: <InsertCost><Cost>9439.7</Cost><AfterIndex>0</AfterIndex><TruckNumber>2</TruckNumber><Index>25</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>3966</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Bid for customer  25 by 10.1.40.232:3966 is $9439.7
+Processing message: <InsertCost><Cost>32749.477</Cost><AfterIndex>0</AfterIndex><TruckNumber>1</TruckNumber><Index>25</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>15720</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:15720; cost before: 32749.477
+Random cost generated for 10.1.40.232:15720; cost after: 32749.477
+Bid for customer  25 by 10.1.40.232:15720 is $32749.477
+Processing message: <InsertCost><Cost>7165.045</Cost><AfterIndex>0</AfterIndex><TruckNumber>0</TruckNumber><Index>25</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>6251</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:6251; cost before: 7165.045
+Random cost generated for 10.1.40.232:6251; cost after: 7165.045
+Bid for customer  25 by 10.1.40.232:6251 is $7165.045
+Shipment 25 was accepted for carrier 10.1.40.232:6251
+Processing message: <Confirm><Index>25</Index></Confirm>
+Sending shipment 26 to master server
+Processing message: <InsertCost><Cost>40473.867</Cost><AfterIndex>0</AfterIndex><TruckNumber>2</TruckNumber><Index>26</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>3966</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Bid for customer  26 by 10.1.40.232:3966 is $40473.867
+Processing message: <InsertCost><Cost>18523.816</Cost><AfterIndex>19</AfterIndex><TruckNumber>0</TruckNumber><Index>26</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>15720</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:15720; cost before: 18523.816
+Random cost generated for 10.1.40.232:15720; cost after: 18523.816
+Bid for customer  26 by 10.1.40.232:15720 is $18523.816
+Processing message: <InsertCost><Cost>50808.24</Cost><AfterIndex>0</AfterIndex><TruckNumber>0</TruckNumber><Index>26</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>13667</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:13667; cost before: 50808.24
+Random cost generated for 10.1.40.232:13667; cost after: 50808.24
+Bid for customer  26 by 10.1.40.232:13667 is $50808.24
+Processing message: <InsertCost><Cost>38724.324</Cost><AfterIndex>0</AfterIndex><TruckNumber>0</TruckNumber><Index>26</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>6251</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:6251; cost before: 38724.324
+Random cost generated for 10.1.40.232:6251; cost after: 38724.324
+Bid for customer  26 by 10.1.40.232:6251 is $38724.324
+Shipment 26 was accepted for carrier 10.1.40.232:15720
+Processing message: <Confirm><Index>26</Index></Confirm>
+Sending shipment 27 to master server
+Processing message: <InsertCost><Cost>16675.389</Cost><AfterIndex>0</AfterIndex><TruckNumber>2</TruckNumber><Index>27</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>3966</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Bid for customer  27 by 10.1.40.232:3966 is $16675.389
+Processing message: <InsertCost><Cost>16797.97</Cost><AfterIndex>0</AfterIndex><TruckNumber>0</TruckNumber><Index>27</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>13667</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:13667; cost before: 16797.97
+Random cost generated for 10.1.40.232:13667; cost after: 16797.97
+Bid for customer  27 by 10.1.40.232:13667 is $16797.97
+Processing message: <InsertCost><Cost>23843.994</Cost><AfterIndex>20</AfterIndex><TruckNumber>1</TruckNumber><Index>27</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>15720</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:15720; cost before: 23843.994
+Random cost generated for 10.1.40.232:15720; cost after: 23843.994
+Bid for customer  27 by 10.1.40.232:15720 is $23843.994
+Processing message: <InsertCost><Cost>13039.948</Cost><AfterIndex>0</AfterIndex><TruckNumber>0</TruckNumber><Index>27</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>6251</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:6251; cost before: 13039.948
+Random cost generated for 10.1.40.232:6251; cost after: 13039.948
+Bid for customer  27 by 10.1.40.232:6251 is $13039.948
+Shipment 27 was accepted for carrier 10.1.40.232:6251
+Processing message: <Confirm><Index>27</Index></Confirm>
+Sending shipment 28 to master server
+Processing message: <InsertCost><Cost>44700.48</Cost><AfterIndex>0</AfterIndex><TruckNumber>0</TruckNumber><Index>28</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>13667</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:13667; cost before: 44700.48
+Random cost generated for 10.1.40.232:13667; cost after: 44700.48
+Bid for customer  28 by 10.1.40.232:13667 is $44700.48
+Processing message: <InsertCost><Cost>38089.992</Cost><AfterIndex>0</AfterIndex><TruckNumber>2</TruckNumber><Index>28</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>3966</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Bid for customer  28 by 10.1.40.232:3966 is $38089.992
+Processing message: <InsertCost><Cost>14421.3955</Cost><AfterIndex>19</AfterIndex><TruckNumber>0</TruckNumber><Index>28</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>15720</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:15720; cost before: 14421.3955
+Random cost generated for 10.1.40.232:15720; cost after: 14421.3955
+Bid for customer  28 by 10.1.40.232:15720 is $14421.3955
+Processing message: <InsertCost><Cost>34346.5</Cost><AfterIndex>0</AfterIndex><TruckNumber>0</TruckNumber><Index>28</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>6251</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:6251; cost before: 34346.5
+Random cost generated for 10.1.40.232:6251; cost after: 34346.5
+Bid for customer  28 by 10.1.40.232:6251 is $34346.5
+Shipment 28 was accepted for carrier 10.1.40.232:15720
+Processing message: <Confirm><Index>28</Index></Confirm>
+Sending shipment 29 to master server
+Processing message: <InsertCost><Cost>24307.27</Cost><AfterIndex>0</AfterIndex><TruckNumber>0</TruckNumber><Index>29</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>13667</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:13667; cost before: 24307.27
+Random cost generated for 10.1.40.232:13667; cost after: 24307.27
+Bid for customer  29 by 10.1.40.232:13667 is $24307.27
+Processing message: <InsertCost><Cost>26056.814</Cost><AfterIndex>0</AfterIndex><TruckNumber>2</TruckNumber><Index>29</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>3966</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Bid for customer  29 by 10.1.40.232:3966 is $26056.814
+Processing message: <InsertCost><Cost>15148.156</Cost><AfterIndex>27</AfterIndex><TruckNumber>1</TruckNumber><Index>29</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>15720</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:15720; cost before: 15148.156
+Random cost generated for 10.1.40.232:15720; cost after: 15148.156
+Bid for customer  29 by 10.1.40.232:15720 is $15148.156
+Processing message: <InsertCost><Cost>18360.0</Cost><AfterIndex>0</AfterIndex><TruckNumber>0</TruckNumber><Index>29</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>6251</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:6251; cost before: 18360.0
+Random cost generated for 10.1.40.232:6251; cost after: 18360.0
+Bid for customer  29 by 10.1.40.232:6251 is $18360.0
+Shipment 29 was accepted for carrier 10.1.40.232:15720
+Processing message: <Confirm><Index>29</Index></Confirm>
+Sending shipment 30 to master server
+Processing message: <InsertCost><Cost>34748.67</Cost><AfterIndex>0</AfterIndex><TruckNumber>0</TruckNumber><Index>30</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>13667</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:13667; cost before: 34748.67
+Random cost generated for 10.1.40.232:13667; cost after: 34748.67
+Bid for customer  30 by 10.1.40.232:13667 is $34748.67
+Processing message: <InsertCost><Cost>32602.895</Cost><AfterIndex>0</AfterIndex><TruckNumber>2</TruckNumber><Index>30</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>3966</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Bid for customer  30 by 10.1.40.232:3966 is $32602.895
+Processing message: <InsertCost><Cost>6985.7188</Cost><AfterIndex>19</AfterIndex><TruckNumber>0</TruckNumber><Index>30</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>15720</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Processing message: <InsertCost><Cost>27160.0</Cost><AfterIndex>0</AfterIndex><TruckNumber>0</TruckNumber><Index>30</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>6251</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:6251; cost before: 27160.0
+Random cost generated for 10.1.40.232:6251; cost after: 27160.0
+Bid for customer  30 by 10.1.40.232:6251 is $27160.0
+Random cost generated for 10.1.40.232:15720; cost before: 6985.7188
+Random cost generated for 10.1.40.232:15720; cost after: 6985.7188
+Bid for customer  30 by 10.1.40.232:15720 is $6985.7188
+Shipment 30 was accepted for carrier 10.1.40.232:15720
+Processing message: <Confirm><Index>30</Index></Confirm>
+Sending shipment 31 to master server
+Processing message: <InsertCost><Cost>15847.762</Cost><AfterIndex>0</AfterIndex><TruckNumber>2</TruckNumber><Index>31</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>3966</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Bid for customer  31 by 10.1.40.232:3966 is $15847.762
+Processing message: <InsertCost><Cost>7850.0</Cost><AfterIndex>0</AfterIndex><TruckNumber>0</TruckNumber><Index>31</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>13667</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:13667; cost before: 7850.0
+Random cost generated for 10.1.40.232:13667; cost after: 7850.0
+Bid for customer  31 by 10.1.40.232:13667 is $7850.0
+Processing message: <InsertCost><Cost>5912.103</Cost><AfterIndex>0</AfterIndex><TruckNumber>0</TruckNumber><Index>31</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>6251</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Processing message: <InsertCost><Cost>14040.637</Cost><AfterIndex>0</AfterIndex><TruckNumber>2</TruckNumber><Index>31</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>15720</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:6251; cost before: 5912.103
+Random cost generated for 10.1.40.232:6251; cost after: 5912.103
+Bid for customer  31 by 10.1.40.232:6251 is $5912.103
+Random cost generated for 10.1.40.232:15720; cost before: 14040.637
+Random cost generated for 10.1.40.232:15720; cost after: 14040.637
+Bid for customer  31 by 10.1.40.232:15720 is $14040.637
+Shipment 31 was accepted for carrier 10.1.40.232:6251
+Processing message: <Confirm><Index>31</Index></Confirm>
+Sending shipment 32 to master server
+Processing message: <InsertCost><Cost>120.0</Cost><AfterIndex>0</AfterIndex><TruckNumber>0</TruckNumber><Index>32</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>13667</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:13667; cost before: 120.0
+Random cost generated for 10.1.40.232:13667; cost after: 120.000046
+Bid for customer  32 by 10.1.40.232:13667 is $120.000046
+Processing message: <InsertCost><Cost>1857.2474</Cost><AfterIndex>0</AfterIndex><TruckNumber>2</TruckNumber><Index>32</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>3966</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Bid for customer  32 by 10.1.40.232:3966 is $1857.2474
+Processing message: <InsertCost><Cost>1231.1489</Cost><AfterIndex>0</AfterIndex><TruckNumber>1</TruckNumber><Index>32</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>15720</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:15720; cost before: 1231.1489
+Random cost generated for 10.1.40.232:15720; cost after: 1231.1489
+Bid for customer  32 by 10.1.40.232:15720 is $1231.1489
+Processing message: <InsertCost><Cost>2933.8777</Cost><AfterIndex>0</AfterIndex><TruckNumber>0</TruckNumber><Index>32</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>6251</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:6251; cost before: 2933.8777
+Random cost generated for 10.1.40.232:6251; cost after: 2933.8777
+Bid for customer  32 by 10.1.40.232:6251 is $2933.8777
+Shipment 32 was accepted for carrier 10.1.40.232:13667
+Processing message: <Confirm><Index>32</Index></Confirm>
+Sending shipment 33 to master server
+Processing message: <InsertCost><Cost>1379.0588</Cost><AfterIndex>0</AfterIndex><TruckNumber>0</TruckNumber><Index>33</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>13667</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:13667; cost before: 1379.0588
+Random cost generated for 10.1.40.232:13667; cost after: 1379.059
+Bid for customer  33 by 10.1.40.232:13667 is $1379.059
+Processing message: <InsertCost><Cost>2633.8093</Cost><AfterIndex>0</AfterIndex><TruckNumber>2</TruckNumber><Index>33</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>15720</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:15720; cost before: 2633.8093
+Random cost generated for 10.1.40.232:15720; cost after: 2633.8093
+Bid for customer  33 by 10.1.40.232:15720 is $2633.8093
+Processing message: <InsertCost><Cost>1860.9713</Cost><AfterIndex>0</AfterIndex><TruckNumber>2</TruckNumber><Index>33</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>3966</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Bid for customer  33 by 10.1.40.232:3966 is $1860.9713
+Processing message: <InsertCost><Cost>2958.0154</Cost><AfterIndex>0</AfterIndex><TruckNumber>0</TruckNumber><Index>33</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>6251</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:6251; cost before: 2958.0154
+Random cost generated for 10.1.40.232:6251; cost after: 2958.0154
+Bid for customer  33 by 10.1.40.232:6251 is $2958.0154
+Shipment 33 was accepted for carrier 10.1.40.232:13667
+Processing message: <Confirm><Index>33</Index></Confirm>
+Sending shipment 34 to master server
+Processing message: <InsertCost><Cost>48024.22</Cost><AfterIndex>0</AfterIndex><TruckNumber>0</TruckNumber><Index>34</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>13667</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:13667; cost before: 48024.22
+Random cost generated for 10.1.40.232:13667; cost after: 48024.22
+Bid for customer  34 by 10.1.40.232:13667 is $48024.22
+Processing message: <InsertCost><Cost>27434.807</Cost><AfterIndex>29</AfterIndex><TruckNumber>1</TruckNumber><Index>34</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>15720</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:15720; cost before: 27434.807
+Random cost generated for 10.1.40.232:15720; cost after: 27434.807
+Bid for customer  34 by 10.1.40.232:15720 is $27434.807
+Processing message: <InsertCost><Cost>2265.8923</Cost><AfterIndex>12</AfterIndex><TruckNumber>1</TruckNumber><Index>34</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>3966</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Bid for customer  34 by 10.1.40.232:3966 is $2265.8923
+Processing message: <InsertCost><Cost>33673.266</Cost><AfterIndex>31</AfterIndex><TruckNumber>0</TruckNumber><Index>34</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>6251</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:6251; cost before: 33673.266
+Random cost generated for 10.1.40.232:6251; cost after: 33673.266
+Bid for customer  34 by 10.1.40.232:6251 is $33673.266
+Shipment 34 was accepted for carrier 10.1.40.232:3966
+Processing message: <Confirm><Index>34</Index></Confirm>
+Sending shipment 35 to master server
+Processing message: <InsertCost><Cost>11600.52</Cost><AfterIndex>0</AfterIndex><TruckNumber>0</TruckNumber><Index>35</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>13667</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:13667; cost before: 11600.52
+Random cost generated for 10.1.40.232:13667; cost after: 11600.52
+Bid for customer  35 by 10.1.40.232:13667 is $11600.52
+Processing message: <InsertCost><Cost>11473.22</Cost><AfterIndex>33</AfterIndex><TruckNumber>2</TruckNumber><Index>35</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>3966</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Bid for customer  35 by 10.1.40.232:3966 is $11473.22
+Processing message: <InsertCost><Cost>14611.148</Cost><AfterIndex>0</AfterIndex><TruckNumber>2</TruckNumber><Index>35</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>15720</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:15720; cost before: 14611.148
+Random cost generated for 10.1.40.232:15720; cost after: 14611.148
+Bid for customer  35 by 10.1.40.232:15720 is $14611.148
+Processing message: <InsertCost><Cost>7254.2896</Cost><AfterIndex>31</AfterIndex><TruckNumber>0</TruckNumber><Index>35</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>6251</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:6251; cost before: 7254.2896
+Random cost generated for 10.1.40.232:6251; cost after: 7254.2896
+Bid for customer  35 by 10.1.40.232:6251 is $7254.2896
+Shipment 35 was accepted for carrier 10.1.40.232:6251
+Processing message: <Confirm><Index>35</Index></Confirm>
+Sending shipment 36 to master server
+Processing message: <InsertCost><Cost>42754.832</Cost><AfterIndex>0</AfterIndex><TruckNumber>0</TruckNumber><Index>36</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>13667</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:13667; cost before: 42754.832
+Random cost generated for 10.1.40.232:13667; cost after: 42754.832
+Bid for customer  36 by 10.1.40.232:13667 is $42754.832
+Processing message: <InsertCost><Cost>59332.67</Cost><AfterIndex>33</AfterIndex><TruckNumber>2</TruckNumber><Index>36</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>3966</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Bid for customer  36 by 10.1.40.232:3966 is $59332.67
+Processing message: <InsertCost><Cost>21014.338</Cost><AfterIndex>29</AfterIndex><TruckNumber>1</TruckNumber><Index>36</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>15720</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:15720; cost before: 21014.338
+Random cost generated for 10.1.40.232:15720; cost after: 21014.338
+Bid for customer  36 by 10.1.40.232:15720 is $21014.338
+Processing message: <InsertCost><Cost>26550.209</Cost><AfterIndex>35</AfterIndex><TruckNumber>0</TruckNumber><Index>36</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>6251</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:6251; cost before: 26550.209
+Random cost generated for 10.1.40.232:6251; cost after: 26550.209
+Bid for customer  36 by 10.1.40.232:6251 is $26550.209
+Shipment 36 was accepted for carrier 10.1.40.232:15720
+Processing message: <Confirm><Index>36</Index></Confirm>
+Sending shipment 37 to master server
+Processing message: <InsertCost><Cost>20302.62</Cost><AfterIndex>0</AfterIndex><TruckNumber>0</TruckNumber><Index>37</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>13667</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:13667; cost before: 20302.62
+Random cost generated for 10.1.40.232:13667; cost after: 20302.62
+Bid for customer  37 by 10.1.40.232:13667 is $20302.62
+Processing message: <InsertCost><Cost>27136.186</Cost><AfterIndex>33</AfterIndex><TruckNumber>2</TruckNumber><Index>37</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>3966</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Bid for customer  37 by 10.1.40.232:3966 is $27136.186
+Processing message: <InsertCost><Cost>8956.562</Cost><AfterIndex>19</AfterIndex><TruckNumber>0</TruckNumber><Index>37</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>15720</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:15720; cost before: 8956.562
+Random cost generated for 10.1.40.232:15720; cost after: 8956.562
+Bid for customer  37 by 10.1.40.232:15720 is $8956.562
+Processing message: <InsertCost><Cost>9144.068</Cost><AfterIndex>35</AfterIndex><TruckNumber>0</TruckNumber><Index>37</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>6251</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:6251; cost before: 9144.068
+Random cost generated for 10.1.40.232:6251; cost after: 9144.068
+Bid for customer  37 by 10.1.40.232:6251 is $9144.068
+Shipment 37 was accepted for carrier 10.1.40.232:15720
+Processing message: <Confirm><Index>37</Index></Confirm>
+Sending shipment 38 to master server
+Processing message: <InsertCost><Cost>26966.463</Cost><AfterIndex>0</AfterIndex><TruckNumber>0</TruckNumber><Index>38</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>13667</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:13667; cost before: 26966.463
+Random cost generated for 10.1.40.232:13667; cost after: 26966.463
+Bid for customer  38 by 10.1.40.232:13667 is $26966.463
+Processing message: <InsertCost><Cost>40381.477</Cost><AfterIndex>33</AfterIndex><TruckNumber>2</TruckNumber><Index>38</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>3966</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Bid for customer  38 by 10.1.40.232:3966 is $40381.477
+Processing message: <InsertCost><Cost>38399.625</Cost><AfterIndex>0</AfterIndex><TruckNumber>2</TruckNumber><Index>38</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>15720</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:15720; cost before: 38399.625
+Random cost generated for 10.1.40.232:15720; cost after: 38399.625
+Bid for customer  38 by 10.1.40.232:15720 is $38399.625
+Processing message: <InsertCost><Cost>14473.237</Cost><AfterIndex>35</AfterIndex><TruckNumber>0</TruckNumber><Index>38</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>6251</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:6251; cost before: 14473.237
+Random cost generated for 10.1.40.232:6251; cost after: 14473.237
+Bid for customer  38 by 10.1.40.232:6251 is $14473.237
+Shipment 38 was accepted for carrier 10.1.40.232:6251
+Processing message: <Confirm><Index>38</Index></Confirm>
+Sending shipment 39 to master server
+Processing message: <InsertCost><Cost>36589.793</Cost><AfterIndex>0</AfterIndex><TruckNumber>0</TruckNumber><Index>39</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>13667</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:13667; cost before: 36589.793
+Random cost generated for 10.1.40.232:13667; cost after: 36589.793
+Bid for customer  39 by 10.1.40.232:13667 is $36589.793
+Processing message: <InsertCost><Cost>16637.748</Cost><AfterIndex>38</AfterIndex><TruckNumber>0</TruckNumber><Index>39</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>6251</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:6251; cost before: 16637.748
+Random cost generated for 10.1.40.232:6251; cost after: 16637.748
+Bid for customer  39 by 10.1.40.232:6251 is $16637.748
+Processing message: <InsertCost><Cost>50496.55</Cost><AfterIndex>33</AfterIndex><TruckNumber>2</TruckNumber><Index>39</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>3966</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Bid for customer  39 by 10.1.40.232:3966 is $50496.55
+Processing message: <InsertCost><Cost>45103.93</Cost><AfterIndex>0</AfterIndex><TruckNumber>2</TruckNumber><Index>39</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>15720</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:15720; cost before: 45103.93
+Random cost generated for 10.1.40.232:15720; cost after: 45103.93
+Bid for customer  39 by 10.1.40.232:15720 is $45103.93
+Shipment 39 was accepted for carrier 10.1.40.232:6251
+Processing message: <Confirm><Index>39</Index></Confirm>
+Sending shipment 40 to master server
+Processing message: <InsertCost><Cost>13125.404</Cost><AfterIndex>0</AfterIndex><TruckNumber>0</TruckNumber><Index>40</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>13667</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:13667; cost before: 13125.404
+Random cost generated for 10.1.40.232:13667; cost after: 13125.404
+Bid for customer  40 by 10.1.40.232:13667 is $13125.404
+Processing message: <InsertCost><Cost>24532.904</Cost><AfterIndex>0</AfterIndex><TruckNumber>1</TruckNumber><Index>40</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>6251</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:6251; cost before: 24532.904
+Random cost generated for 10.1.40.232:6251; cost after: 24532.904
+Bid for customer  40 by 10.1.40.232:6251 is $24532.904
+Processing message: <InsertCost><Cost>9471.135</Cost><AfterIndex>33</AfterIndex><TruckNumber>2</TruckNumber><Index>40</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>3966</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Processing message: <InsertCost><Cost>10834.135</Cost><AfterIndex>0</AfterIndex><TruckNumber>2</TruckNumber><Index>40</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>15720</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Bid for customer  40 by 10.1.40.232:3966 is $9471.135
+Random cost generated for 10.1.40.232:15720; cost before: 10834.135
+Random cost generated for 10.1.40.232:15720; cost after: 10834.135
+Bid for customer  40 by 10.1.40.232:15720 is $10834.135
+Shipment 40 was accepted for carrier 10.1.40.232:3966
+Processing message: <Confirm><Index>40</Index></Confirm>
+Sending shipment 41 to master server
+Processing message: <InsertCost><Cost>12295.774</Cost><AfterIndex>0</AfterIndex><TruckNumber>0</TruckNumber><Index>41</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>6251</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:6251; cost before: 12295.774
+Random cost generated for 10.1.40.232:6251; cost after: 12295.774
+Bid for customer  41 by 10.1.40.232:6251 is $12295.774
+Processing message: <InsertCost><Cost>1397.9634</Cost><AfterIndex>33</AfterIndex><TruckNumber>2</TruckNumber><Index>41</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>3966</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Bid for customer  41 by 10.1.40.232:3966 is $1397.9634
+Processing message: <InsertCost><Cost>9294.135</Cost><AfterIndex>0</AfterIndex><TruckNumber>2</TruckNumber><Index>41</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>15720</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:15720; cost before: 9294.135
+Random cost generated for 10.1.40.232:15720; cost after: 9294.135
+Bid for customer  41 by 10.1.40.232:15720 is $9294.135
+Processing message: <InsertCost><Cost>6640.2393</Cost><AfterIndex>0</AfterIndex><TruckNumber>0</TruckNumber><Index>41</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>13667</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:13667; cost before: 6640.2393
+Random cost generated for 10.1.40.232:13667; cost after: 6640.2393
+Bid for customer  41 by 10.1.40.232:13667 is $6640.2393
+Shipment 41 was accepted for carrier 10.1.40.232:3966
+Processing message: <Confirm><Index>41</Index></Confirm>
+Sending shipment 42 to master server
+Processing message: <InsertCost><Cost>63.655323</Cost><AfterIndex>0</AfterIndex><TruckNumber>0</TruckNumber><Index>42</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>13667</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:13667; cost before: 63.655323
+Random cost generated for 10.1.40.232:13667; cost after: 63.655354
+Bid for customer  42 by 10.1.40.232:13667 is $63.655354
+Processing message: <InsertCost><Cost>1475.7579</Cost><AfterIndex>0</AfterIndex><TruckNumber>3</TruckNumber><Index>42</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>3966</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Bid for customer  42 by 10.1.40.232:3966 is $1475.7579
+Processing message: <InsertCost><Cost>8690.046</Cost><AfterIndex>0</AfterIndex><TruckNumber>2</TruckNumber><Index>42</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>15720</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:15720; cost before: 8690.046
+Random cost generated for 10.1.40.232:15720; cost after: 8690.046
+Bid for customer  42 by 10.1.40.232:15720 is $8690.046
+Processing message: <InsertCost><Cost>12150.205</Cost><AfterIndex>0</AfterIndex><TruckNumber>0</TruckNumber><Index>42</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>6251</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:6251; cost before: 12150.205
+Random cost generated for 10.1.40.232:6251; cost after: 12150.205
+Bid for customer  42 by 10.1.40.232:6251 is $12150.205
+Shipment 42 was accepted for carrier 10.1.40.232:13667
+Processing message: <Confirm><Index>42</Index></Confirm>
+Sending shipment 43 to master server
+Processing message: <InsertCost><Cost>67.941154</Cost><AfterIndex>0</AfterIndex><TruckNumber>0</TruckNumber><Index>43</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>13667</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:13667; cost before: 67.941154
+Random cost generated for 10.1.40.232:13667; cost after: 67.94123
+Bid for customer  43 by 10.1.40.232:13667 is $67.94123
+Processing message: <InsertCost><Cost>3794.267</Cost><AfterIndex>0</AfterIndex><TruckNumber>0</TruckNumber><Index>43</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>6251</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:6251; cost before: 3794.267
+Random cost generated for 10.1.40.232:6251; cost after: 3794.267
+Bid for customer  43 by 10.1.40.232:6251 is $3794.267
+Processing message: <InsertCost><Cost>1471.5569</Cost><AfterIndex>0</AfterIndex><TruckNumber>3</TruckNumber><Index>43</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>3966</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Bid for customer  43 by 10.1.40.232:3966 is $1471.5569
+Processing message: <InsertCost><Cost>8574.135</Cost><AfterIndex>0</AfterIndex><TruckNumber>2</TruckNumber><Index>43</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>15720</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:15720; cost before: 8574.135
+Random cost generated for 10.1.40.232:15720; cost after: 8574.135
+Bid for customer  43 by 10.1.40.232:15720 is $8574.135
+Shipment 43 was accepted for carrier 10.1.40.232:13667
+Processing message: <Confirm><Index>43</Index></Confirm>
+Sending shipment 44 to master server
+Processing message: <InsertCost><Cost>18033.604</Cost><AfterIndex>0</AfterIndex><TruckNumber>0</TruckNumber><Index>44</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>13667</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:13667; cost before: 18033.604
+Random cost generated for 10.1.40.232:13667; cost after: 18033.604
+Bid for customer  44 by 10.1.40.232:13667 is $18033.604
+Processing message: <InsertCost><Cost>9696.997</Cost><AfterIndex>41</AfterIndex><TruckNumber>2</TruckNumber><Index>44</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>3966</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Bid for customer  44 by 10.1.40.232:3966 is $9696.997
+Processing message: <InsertCost><Cost>12329.549</Cost><AfterIndex>0</AfterIndex><TruckNumber>2</TruckNumber><Index>44</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>15720</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:15720; cost before: 12329.549
+Random cost generated for 10.1.40.232:15720; cost after: 12329.549
+Bid for customer  44 by 10.1.40.232:15720 is $12329.549
+Processing message: <InsertCost><Cost>13709.52</Cost><AfterIndex>0</AfterIndex><TruckNumber>1</TruckNumber><Index>44</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>6251</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:6251; cost before: 13709.52
+Random cost generated for 10.1.40.232:6251; cost after: 13709.52
+Bid for customer  44 by 10.1.40.232:6251 is $13709.52
+Shipment 44 was accepted for carrier 10.1.40.232:3966
+Processing message: <Confirm><Index>44</Index></Confirm>
+Sending shipment 45 to master server
+Processing message: <InsertCost><Cost>3657.3545</Cost><AfterIndex>44</AfterIndex><TruckNumber>2</TruckNumber><Index>45</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>3966</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Bid for customer  45 by 10.1.40.232:3966 is $3657.3545
+Processing message: <InsertCost><Cost>27419.662</Cost><AfterIndex>0</AfterIndex><TruckNumber>0</TruckNumber><Index>45</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>13667</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Processing message: <InsertCost><Cost>15669.051</Cost><AfterIndex>0</AfterIndex><TruckNumber>2</TruckNumber><Index>45</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>15720</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:13667; cost before: 27419.662
+Random cost generated for 10.1.40.232:15720; cost before: 15669.051
+Random cost generated for 10.1.40.232:15720; cost after: 15669.051
+Bid for customer  45 by 10.1.40.232:15720 is $15669.051
+Random cost generated for 10.1.40.232:13667; cost after: 27419.662
+Bid for customer  45 by 10.1.40.232:13667 is $27419.662
+Processing message: <InsertCost><Cost>17904.098</Cost><AfterIndex>0</AfterIndex><TruckNumber>1</TruckNumber><Index>45</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>6251</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:6251; cost before: 17904.098
+Random cost generated for 10.1.40.232:6251; cost after: 17904.098
+Bid for customer  45 by 10.1.40.232:6251 is $17904.098
+Shipment 45 was accepted for carrier 10.1.40.232:3966
+Processing message: <Confirm><Index>45</Index></Confirm>
+Sending shipment 46 to master server
+Processing message: <InsertCost><Cost>23088.066</Cost><AfterIndex>0</AfterIndex><TruckNumber>0</TruckNumber><Index>46</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>13667</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:13667; cost before: 23088.066
+Random cost generated for 10.1.40.232:13667; cost after: 23088.066
+Bid for customer  46 by 10.1.40.232:13667 is $23088.066
+Processing message: <InsertCost><Cost>34793.824</Cost><AfterIndex>0</AfterIndex><TruckNumber>3</TruckNumber><Index>46</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>3966</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Bid for customer  46 by 10.1.40.232:3966 is $34793.824
+Processing message: <InsertCost><Cost>13320.811</Cost><AfterIndex>0</AfterIndex><TruckNumber>2</TruckNumber><Index>46</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>15720</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:15720; cost before: 13320.811
+Random cost generated for 10.1.40.232:15720; cost after: 13320.811
+Bid for customer  46 by 10.1.40.232:15720 is $13320.811
+Processing message: <InsertCost><Cost>16365.004</Cost><AfterIndex>0</AfterIndex><TruckNumber>1</TruckNumber><Index>46</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>6251</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:6251; cost before: 16365.004
+Random cost generated for 10.1.40.232:6251; cost after: 16365.004
+Bid for customer  46 by 10.1.40.232:6251 is $16365.004
+Shipment 46 was accepted for carrier 10.1.40.232:15720
+Processing message: <Confirm><Index>46</Index></Confirm>
+Sending shipment 47 to master server
+Processing message: <InsertCost><Cost>60892.71</Cost><AfterIndex>0</AfterIndex><TruckNumber>0</TruckNumber><Index>47</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>13667</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:13667; cost before: 60892.71
+Random cost generated for 10.1.40.232:13667; cost after: 60892.71
+Bid for customer  47 by 10.1.40.232:13667 is $60892.71
+Processing message: <InsertCost><Cost>39272.047</Cost><AfterIndex>39</AfterIndex><TruckNumber>0</TruckNumber><Index>47</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>6251</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:6251; cost before: 39272.047
+Random cost generated for 10.1.40.232:6251; cost after: 39272.047
+Bid for customer  47 by 10.1.40.232:6251 is $39272.047
+Processing message: <InsertCost><Cost>2289.0925</Cost><AfterIndex>1</AfterIndex><TruckNumber>0</TruckNumber><Index>47</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>3966</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Bid for customer  47 by 10.1.40.232:3966 is $2289.0925
+Processing message: <InsertCost><Cost>2811.091</Cost><AfterIndex>21</AfterIndex><TruckNumber>0</TruckNumber><Index>47</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>15720</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:15720; cost before: 2811.091
+Random cost generated for 10.1.40.232:15720; cost after: 2811.091
+Bid for customer  47 by 10.1.40.232:15720 is $2811.091
+Shipment 47 was accepted for carrier 10.1.40.232:3966
+Processing message: <Confirm><Index>47</Index></Confirm>
+Sending shipment 48 to master server
+Processing message: <InsertCost><Cost>30948.328</Cost><AfterIndex>0</AfterIndex><TruckNumber>0</TruckNumber><Index>48</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>13667</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Processing message: <InsertCost><Cost>22140.648</Cost><AfterIndex>44</AfterIndex><TruckNumber>2</TruckNumber><Index>48</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>3966</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:13667; cost before: 30948.328
+Random cost generated for 10.1.40.232:13667; cost after: 30948.328
+Bid for customer  48 by 10.1.40.232:13667 is $30948.328
+Bid for customer  48 by 10.1.40.232:3966 is $22140.648
+Processing message: <InsertCost><Cost>13020.291</Cost><AfterIndex>0</AfterIndex><TruckNumber>2</TruckNumber><Index>48</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>15720</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:15720; cost before: 13020.291
+Random cost generated for 10.1.40.232:15720; cost after: 13020.291
+Bid for customer  48 by 10.1.40.232:15720 is $13020.291
+Processing message: <InsertCost><Cost>4295.0347</Cost><AfterIndex>39</AfterIndex><TruckNumber>0</TruckNumber><Index>48</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>6251</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:6251; cost before: 4295.0347
+Random cost generated for 10.1.40.232:6251; cost after: 4295.0347
+Bid for customer  48 by 10.1.40.232:6251 is $4295.0347
+Shipment 48 was accepted for carrier 10.1.40.232:6251
+Processing message: <Confirm><Index>48</Index></Confirm>
+Sending shipment 49 to master server
+Processing message: <InsertCost><Cost>57865.336</Cost><AfterIndex>0</AfterIndex><TruckNumber>0</TruckNumber><Index>49</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>13667</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:13667; cost before: 57865.336
+Random cost generated for 10.1.40.232:13667; cost after: 57865.336
+Bid for customer  49 by 10.1.40.232:13667 is $57865.336
+Processing message: <InsertCost><Cost>8024.667</Cost><AfterIndex>34</AfterIndex><TruckNumber>1</TruckNumber><Index>49</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>15720</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Processing message: <InsertCost><Cost>28065.236</Cost><AfterIndex>48</AfterIndex><TruckNumber>0</TruckNumber><Index>49</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>6251</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:15720; cost before: 8024.667
+Random cost generated for 10.1.40.232:15720; cost after: 8024.667
+Bid for customer  49 by 10.1.40.232:15720 is $8024.667
+Random cost generated for 10.1.40.232:6251; cost before: 28065.236
+Random cost generated for 10.1.40.232:6251; cost after: 28065.236
+Bid for customer  49 by 10.1.40.232:6251 is $28065.236
+Processing message: <InsertCost><Cost>2306.159</Cost><AfterIndex>1</AfterIndex><TruckNumber>0</TruckNumber><Index>49</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>3966</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Bid for customer  49 by 10.1.40.232:3966 is $2306.159
+Shipment 49 was accepted for carrier 10.1.40.232:3966
+Processing message: <Confirm><Index>49</Index></Confirm>
+Sending shipment 50 to master server
+Processing message: <InsertCost><Cost>41174.21</Cost><AfterIndex>0</AfterIndex><TruckNumber>0</TruckNumber><Index>50</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>13667</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:13667; cost before: 41174.21
+Random cost generated for 10.1.40.232:13667; cost after: 41174.21
+Bid for customer  50 by 10.1.40.232:13667 is $41174.21
+Processing message: <InsertCost><Cost>2710.2773</Cost><AfterIndex>12</AfterIndex><TruckNumber>1</TruckNumber><Index>50</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>3966</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Processing message: <InsertCost><Cost>17442.047</Cost><AfterIndex>0</AfterIndex><TruckNumber>2</TruckNumber><Index>50</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>15720</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Bid for customer  50 by 10.1.40.232:3966 is $2710.2773
+Random cost generated for 10.1.40.232:15720; cost before: 17442.047
+Random cost generated for 10.1.40.232:15720; cost after: 17442.047
+Bid for customer  50 by 10.1.40.232:15720 is $17442.047
+Processing message: <InsertCost><Cost>6255.3857</Cost><AfterIndex>48</AfterIndex><TruckNumber>0</TruckNumber><Index>50</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>6251</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:6251; cost before: 6255.3857
+Random cost generated for 10.1.40.232:6251; cost after: 6255.3857
+Bid for customer  50 by 10.1.40.232:6251 is $6255.3857
+Shipment 50 was accepted for carrier 10.1.40.232:3966
+Processing message: <Confirm><Index>50</Index></Confirm>
+Sending shipment 51 to master server
+Processing message: <InsertCost><Cost>33550.0</Cost><AfterIndex>0</AfterIndex><TruckNumber>0</TruckNumber><Index>51</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>13667</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:13667; cost before: 33550.0
+Random cost generated for 10.1.40.232:13667; cost after: 33550.0
+Bid for customer  51 by 10.1.40.232:13667 is $33550.0
+Processing message: <InsertCost><Cost>36671.45</Cost><AfterIndex>44</AfterIndex><TruckNumber>2</TruckNumber><Index>51</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>3966</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Bid for customer  51 by 10.1.40.232:3966 is $36671.45
+Processing message: <InsertCost><Cost>4349.8394</Cost><AfterIndex>48</AfterIndex><TruckNumber>0</TruckNumber><Index>51</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>6251</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:6251; cost before: 4349.8394
+Random cost generated for 10.1.40.232:6251; cost after: 4349.8394
+Bid for customer  51 by 10.1.40.232:6251 is $4349.8394
+Processing message: <InsertCost><Cost>18059.725</Cost><AfterIndex>0</AfterIndex><TruckNumber>2</TruckNumber><Index>51</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>15720</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:15720; cost before: 18059.725
+Random cost generated for 10.1.40.232:15720; cost after: 18059.725
+Bid for customer  51 by 10.1.40.232:15720 is $18059.725
+Shipment 51 was accepted for carrier 10.1.40.232:6251
+Processing message: <Confirm><Index>51</Index></Confirm>
+Sending shipment 52 to master server
+Processing message: <InsertCost><Cost>49845.613</Cost><AfterIndex>0</AfterIndex><TruckNumber>0</TruckNumber><Index>52</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>13667</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:13667; cost before: 49845.613
+Random cost generated for 10.1.40.232:13667; cost after: 49845.613
+Bid for customer  52 by 10.1.40.232:13667 is $49845.613
+Processing message: <InsertCost><Cost>3666.436</Cost><AfterIndex>50</AfterIndex><TruckNumber>1</TruckNumber><Index>52</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>3966</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Bid for customer  52 by 10.1.40.232:3966 is $3666.436
+Processing message: <InsertCost><Cost>7254.4116</Cost><AfterIndex>51</AfterIndex><TruckNumber>0</TruckNumber><Index>52</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>6251</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:6251; cost before: 7254.4116
+Random cost generated for 10.1.40.232:6251; cost after: 7254.4116
+Bid for customer  52 by 10.1.40.232:6251 is $7254.4116
+Processing message: <InsertCost><Cost>2747.6238</Cost><AfterIndex>34</AfterIndex><TruckNumber>1</TruckNumber><Index>52</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>15720</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:15720; cost before: 2747.6238
+Random cost generated for 10.1.40.232:15720; cost after: 2747.6238
+Bid for customer  52 by 10.1.40.232:15720 is $2747.6238
+Shipment 52 was accepted for carrier 10.1.40.232:15720
+Processing message: <Confirm><Index>52</Index></Confirm>
+Sending shipment 53 to master server
+Processing message: <InsertCost><Cost>25475.645</Cost><AfterIndex>0</AfterIndex><TruckNumber>3</TruckNumber><Index>53</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>3966</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Processing message: <InsertCost><Cost>16821.934</Cost><AfterIndex>0</AfterIndex><TruckNumber>2</TruckNumber><Index>53</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>15720</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:15720; cost before: 16821.934
+Bid for customer  53 by 10.1.40.232:3966 is $25475.645
+Random cost generated for 10.1.40.232:15720; cost after: 16821.934
+Bid for customer  53 by 10.1.40.232:15720 is $16821.934
+Processing message: <InsertCost><Cost>15233.229</Cost><AfterIndex>0</AfterIndex><TruckNumber>0</TruckNumber><Index>53</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>13667</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:13667; cost before: 15233.229
+Random cost generated for 10.1.40.232:13667; cost after: 15233.229
+Bid for customer  53 by 10.1.40.232:13667 is $15233.229
+Processing message: <InsertCost><Cost>17238.434</Cost><AfterIndex>0</AfterIndex><TruckNumber>1</TruckNumber><Index>53</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>6251</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:6251; cost before: 17238.434
+Random cost generated for 10.1.40.232:6251; cost after: 17238.434
+Bid for customer  53 by 10.1.40.232:6251 is $17238.434
+Shipment 53 was accepted for carrier 10.1.40.232:13667
+Processing message: <Confirm><Index>53</Index></Confirm>
+Sending shipment 54 to master server
+Processing message: <InsertCost><Cost>7616.0</Cost><AfterIndex>0</AfterIndex><TruckNumber>0</TruckNumber><Index>54</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>13667</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:13667; cost before: 7616.0
+Random cost generated for 10.1.40.232:13667; cost after: 7616.0
+Bid for customer  54 by 10.1.40.232:13667 is $7616.0
+Processing message: <InsertCost><Cost>13110.956</Cost><AfterIndex>0</AfterIndex><TruckNumber>3</TruckNumber><Index>54</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>3966</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Bid for customer  54 by 10.1.40.232:3966 is $13110.956
+Processing message: <InsertCost><Cost>9240.0</Cost><AfterIndex>0</AfterIndex><TruckNumber>2</TruckNumber><Index>54</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>15720</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:15720; cost before: 9240.0
+Random cost generated for 10.1.40.232:15720; cost after: 9240.0
+Bid for customer  54 by 10.1.40.232:15720 is $9240.0
+Processing message: <InsertCost><Cost>12243.836</Cost><AfterIndex>0</AfterIndex><TruckNumber>1</TruckNumber><Index>54</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>6251</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:6251; cost before: 12243.836
+Random cost generated for 10.1.40.232:6251; cost after: 12243.836
+Bid for customer  54 by 10.1.40.232:6251 is $12243.836
+Shipment 54 was accepted for carrier 10.1.40.232:13667
+Processing message: <Confirm><Index>54</Index></Confirm>
+Sending shipment 55 to master server
+Processing message: <InsertCost><Cost>4215.9873</Cost><AfterIndex>0</AfterIndex><TruckNumber>3</TruckNumber><Index>55</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>3966</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Processing message: <InsertCost><Cost>2047.6985</Cost><AfterIndex>0</AfterIndex><TruckNumber>0</TruckNumber><Index>55</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>13667</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Bid for customer  55 by 10.1.40.232:3966 is $4215.9873
+Random cost generated for 10.1.40.232:13667; cost before: 2047.6985
+Random cost generated for 10.1.40.232:13667; cost after: 2047.6986
+Bid for customer  55 by 10.1.40.232:13667 is $2047.6986
+Processing message: <InsertCost><Cost>4561.895</Cost><AfterIndex>0</AfterIndex><TruckNumber>2</TruckNumber><Index>55</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>15720</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:15720; cost before: 4561.895
+Random cost generated for 10.1.40.232:15720; cost after: 4561.895
+Bid for customer  55 by 10.1.40.232:15720 is $4561.895
+Processing message: <InsertCost><Cost>6986.805</Cost><AfterIndex>0</AfterIndex><TruckNumber>1</TruckNumber><Index>55</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>6251</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:6251; cost before: 6986.805
+Random cost generated for 10.1.40.232:6251; cost after: 6986.805
+Bid for customer  55 by 10.1.40.232:6251 is $6986.805
+Shipment 55 was accepted for carrier 10.1.40.232:13667
+Processing message: <Confirm><Index>55</Index></Confirm>
+Sending shipment 56 to master server
+Processing message: <InsertCost><Cost>27476.264</Cost><AfterIndex>55</AfterIndex><TruckNumber>3</TruckNumber><Index>56</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>3966</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Bid for customer  56 by 10.1.40.232:3966 is $27476.264
+Processing message: <InsertCost><Cost>20047.945</Cost><AfterIndex>0</AfterIndex><TruckNumber>0</TruckNumber><Index>56</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>13667</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:13667; cost before: 20047.945
+Random cost generated for 10.1.40.232:13667; cost after: 20047.945
+Bid for customer  56 by 10.1.40.232:13667 is $20047.945
+Processing message: <InsertCost><Cost>22795.568</Cost><AfterIndex>0</AfterIndex><TruckNumber>2</TruckNumber><Index>56</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>15720</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:15720; cost before: 22795.568
+Random cost generated for 10.1.40.232:15720; cost after: 22795.568
+Bid for customer  56 by 10.1.40.232:15720 is $22795.568
+Processing message: <InsertCost><Cost>12924.598</Cost><AfterIndex>53</AfterIndex><TruckNumber>1</TruckNumber><Index>56</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>6251</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:6251; cost before: 12924.598
+Random cost generated for 10.1.40.232:6251; cost after: 12924.598
+Bid for customer  56 by 10.1.40.232:6251 is $12924.598
+Shipment 56 was accepted for carrier 10.1.40.232:6251
+Processing message: <Confirm><Index>56</Index></Confirm>
+Sending shipment 57 to master server
+Processing message: <InsertCost><Cost>339.79453</Cost><AfterIndex>0</AfterIndex><TruckNumber>0</TruckNumber><Index>57</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>13667</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:13667; cost before: 339.79453
+Random cost generated for 10.1.40.232:13667; cost after: 339.79456
+Bid for customer  57 by 10.1.40.232:13667 is $339.79456
+Processing message: <InsertCost><Cost>3381.942</Cost><AfterIndex>0</AfterIndex><TruckNumber>2</TruckNumber><Index>57</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>15720</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Processing message: <InsertCost><Cost>4314.476</Cost><AfterIndex>0</AfterIndex><TruckNumber>4</TruckNumber><Index>57</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>3966</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Bid for customer  57 by 10.1.40.232:3966 is $4314.476
+Random cost generated for 10.1.40.232:15720; cost before: 3381.942
+Random cost generated for 10.1.40.232:15720; cost after: 3381.942
+Bid for customer  57 by 10.1.40.232:15720 is $3381.942
+Processing message: <InsertCost><Cost>7647.7617</Cost><AfterIndex>0</AfterIndex><TruckNumber>1</TruckNumber><Index>57</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>6251</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:6251; cost before: 7647.7617
+Random cost generated for 10.1.40.232:6251; cost after: 7647.7617
+Bid for customer  57 by 10.1.40.232:6251 is $7647.7617
+Shipment 57 was accepted for carrier 10.1.40.232:13667
+Processing message: <Confirm><Index>57</Index></Confirm>
+Sending shipment 58 to master server
+Processing message: <InsertCost><Cost>23411.773</Cost><AfterIndex>0</AfterIndex><TruckNumber>0</TruckNumber><Index>58</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>13667</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:13667; cost before: 23411.773
+Random cost generated for 10.1.40.232:13667; cost after: 23411.773
+Bid for customer  58 by 10.1.40.232:13667 is $23411.773
+Processing message: <InsertCost><Cost>27461.295</Cost><AfterIndex>0</AfterIndex><TruckNumber>2</TruckNumber><Index>58</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>15720</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:15720; cost before: 27461.295
+Random cost generated for 10.1.40.232:15720; cost after: 27461.295
+Bid for customer  58 by 10.1.40.232:15720 is $27461.295
+Processing message: <InsertCost><Cost>2852.676</Cost><AfterIndex>44</AfterIndex><TruckNumber>2</TruckNumber><Index>58</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>3966</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Bid for customer  58 by 10.1.40.232:3966 is $2852.676
+Processing message: <InsertCost><Cost>7659.174</Cost><AfterIndex>56</AfterIndex><TruckNumber>1</TruckNumber><Index>58</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>6251</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:6251; cost before: 7659.174
+Random cost generated for 10.1.40.232:6251; cost after: 7659.174
+Bid for customer  58 by 10.1.40.232:6251 is $7659.174
+Shipment 58 was accepted for carrier 10.1.40.232:3966
+Processing message: <Confirm><Index>58</Index></Confirm>
+Sending shipment 59 to master server
+Processing message: <InsertCost><Cost>32968.598</Cost><AfterIndex>0</AfterIndex><TruckNumber>0</TruckNumber><Index>59</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>13667</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:13667; cost before: 32968.598
+Random cost generated for 10.1.40.232:13667; cost after: 32968.598
+Bid for customer  59 by 10.1.40.232:13667 is $32968.598
+Processing message: <InsertCost><Cost>8515.795</Cost><AfterIndex>58</AfterIndex><TruckNumber>2</TruckNumber><Index>59</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>3966</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Bid for customer  59 by 10.1.40.232:3966 is $8515.795
+Processing message: <InsertCost><Cost>26521.701</Cost><AfterIndex>0</AfterIndex><TruckNumber>2</TruckNumber><Index>59</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>15720</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:15720; cost before: 26521.701
+Random cost generated for 10.1.40.232:15720; cost after: 26521.701
+Bid for customer  59 by 10.1.40.232:15720 is $26521.701
+Processing message: <InsertCost><Cost>17571.326</Cost><AfterIndex>56</AfterIndex><TruckNumber>1</TruckNumber><Index>59</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>6251</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:6251; cost before: 17571.326
+Random cost generated for 10.1.40.232:6251; cost after: 17571.326
+Bid for customer  59 by 10.1.40.232:6251 is $17571.326
+Shipment 59 was accepted for carrier 10.1.40.232:3966
+Processing message: <Confirm><Index>59</Index></Confirm>
+Sending shipment 60 to master server
+Processing message: <InsertCost><Cost>32747.623</Cost><AfterIndex>0</AfterIndex><TruckNumber>2</TruckNumber><Index>60</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>15720</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:15720; cost before: 32747.623
+Random cost generated for 10.1.40.232:15720; cost after: 32747.623
+Bid for customer  60 by 10.1.40.232:15720 is $32747.623
+Processing message: <InsertCost><Cost>12437.641</Cost><AfterIndex>56</AfterIndex><TruckNumber>1</TruckNumber><Index>60</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>6251</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:6251; cost before: 12437.641
+Random cost generated for 10.1.40.232:6251; cost after: 12437.641
+Bid for customer  60 by 10.1.40.232:6251 is $12437.641
+Processing message: <InsertCost><Cost>2856.9695</Cost><AfterIndex>58</AfterIndex><TruckNumber>2</TruckNumber><Index>60</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>3966</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Bid for customer  60 by 10.1.40.232:3966 is $2856.9695
+Processing message: <InsertCost><Cost>25724.805</Cost><AfterIndex>0</AfterIndex><TruckNumber>0</TruckNumber><Index>60</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>13667</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:13667; cost before: 25724.805
+Random cost generated for 10.1.40.232:13667; cost after: 25724.805
+Bid for customer  60 by 10.1.40.232:13667 is $25724.805
+Shipment 60 was accepted for carrier 10.1.40.232:3966
+Processing message: <Confirm><Index>60</Index></Confirm>
+Sending shipment 61 to master server
+Processing message: <InsertCost><Cost>10855.709</Cost><AfterIndex>56</AfterIndex><TruckNumber>1</TruckNumber><Index>61</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>6251</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:6251; cost before: 10855.709
+Random cost generated for 10.1.40.232:6251; cost after: 10855.709
+Bid for customer  61 by 10.1.40.232:6251 is $10855.709
+Processing message: <InsertCost><Cost>35487.53</Cost><AfterIndex>57</AfterIndex><TruckNumber>3</TruckNumber><Index>61</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>3966</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Processing message: <InsertCost><Cost>40005.816</Cost><AfterIndex>0</AfterIndex><TruckNumber>0</TruckNumber><Index>61</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>13667</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Bid for customer  61 by 10.1.40.232:3966 is $35487.53
+Random cost generated for 10.1.40.232:13667; cost before: 40005.816
+Random cost generated for 10.1.40.232:13667; cost after: 40005.816
+Bid for customer  61 by 10.1.40.232:13667 is $40005.816
+Processing message: <InsertCost><Cost>17908.172</Cost><AfterIndex>0</AfterIndex><TruckNumber>2</TruckNumber><Index>61</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>15720</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:15720; cost before: 17908.172
+Random cost generated for 10.1.40.232:15720; cost after: 17908.172
+Bid for customer  61 by 10.1.40.232:15720 is $17908.172
+Shipment 61 was accepted for carrier 10.1.40.232:6251
+Processing message: <Confirm><Index>61</Index></Confirm>
+Sending shipment 62 to master server
+Processing message: <InsertCost><Cost>17814.195</Cost><AfterIndex>0</AfterIndex><TruckNumber>0</TruckNumber><Index>62</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>13667</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:13667; cost before: 17814.195
+Random cost generated for 10.1.40.232:13667; cost after: 17814.195
+Bid for customer  62 by 10.1.40.232:13667 is $17814.195
+Processing message: <InsertCost><Cost>9479.767</Cost><AfterIndex>0</AfterIndex><TruckNumber>2</TruckNumber><Index>62</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>15720</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:15720; cost before: 9479.767
+Random cost generated for 10.1.40.232:15720; cost after: 9479.767
+Bid for customer  62 by 10.1.40.232:15720 is $9479.767
+Processing message: <InsertCost><Cost>24437.07</Cost><AfterIndex>0</AfterIndex><TruckNumber>2</TruckNumber><Index>62</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>6251</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:6251; cost before: 24437.07
+Random cost generated for 10.1.40.232:6251; cost after: 24437.07
+Bid for customer  62 by 10.1.40.232:6251 is $24437.07
+Processing message: <InsertCost><Cost>9714.867</Cost><AfterIndex>57</AfterIndex><TruckNumber>3</TruckNumber><Index>62</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>3966</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Bid for customer  62 by 10.1.40.232:3966 is $9714.867
+Shipment 62 was accepted for carrier 10.1.40.232:15720
+Processing message: <Confirm><Index>62</Index></Confirm>
+Sending shipment 63 to master server
+Processing message: <InsertCost><Cost>9800.0</Cost><AfterIndex>0</AfterIndex><TruckNumber>0</TruckNumber><Index>63</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>13667</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:13667; cost before: 9800.0
+Random cost generated for 10.1.40.232:13667; cost after: 9800.0
+Bid for customer  63 by 10.1.40.232:13667 is $9800.0
+Processing message: <InsertCost><Cost>2053.3784</Cost><AfterIndex>57</AfterIndex><TruckNumber>3</TruckNumber><Index>63</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>3966</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Bid for customer  63 by 10.1.40.232:3966 is $2053.3784
+Processing message: <InsertCost><Cost>7637.9956</Cost><AfterIndex>0</AfterIndex><TruckNumber>2</TruckNumber><Index>63</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>15720</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:15720; cost before: 7637.9956
+Random cost generated for 10.1.40.232:15720; cost after: 7637.9956
+Bid for customer  63 by 10.1.40.232:15720 is $7637.9956
+Processing message: <InsertCost><Cost>18928.14</Cost><AfterIndex>0</AfterIndex><TruckNumber>2</TruckNumber><Index>63</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>6251</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:6251; cost before: 18928.14
+Random cost generated for 10.1.40.232:6251; cost after: 18928.14
+Bid for customer  63 by 10.1.40.232:6251 is $18928.14
+Shipment 63 was accepted for carrier 10.1.40.232:3966
+Processing message: <Confirm><Index>63</Index></Confirm>
+Sending shipment 64 to master server
+Processing message: <InsertCost><Cost>48013.953</Cost><AfterIndex>0</AfterIndex><TruckNumber>0</TruckNumber><Index>64</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>13667</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:13667; cost before: 48013.953
+Random cost generated for 10.1.40.232:13667; cost after: 48013.953
+Bid for customer  64 by 10.1.40.232:13667 is $48013.953
+Processing message: <InsertCost><Cost>31129.945</Cost><AfterIndex>62</AfterIndex><TruckNumber>3</TruckNumber><Index>64</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>3966</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Bid for customer  64 by 10.1.40.232:3966 is $31129.945
+Processing message: <InsertCost><Cost>12584.033</Cost><AfterIndex>61</AfterIndex><TruckNumber>1</TruckNumber><Index>64</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>6251</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:6251; cost before: 12584.033
+Random cost generated for 10.1.40.232:6251; cost after: 12584.033
+Bid for customer  64 by 10.1.40.232:6251 is $12584.033
+Processing message: <InsertCost><Cost>19285.918</Cost><AfterIndex>0</AfterIndex><TruckNumber>2</TruckNumber><Index>64</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>15720</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:15720; cost before: 19285.918
+Random cost generated for 10.1.40.232:15720; cost after: 19285.918
+Bid for customer  64 by 10.1.40.232:15720 is $19285.918
+Shipment 64 was accepted for carrier 10.1.40.232:6251
+Processing message: <Confirm><Index>64</Index></Confirm>
+Sending shipment 65 to master server
+Processing message: <InsertCost><Cost>3353.972</Cost><AfterIndex>0</AfterIndex><TruckNumber>4</TruckNumber><Index>65</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>3966</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Bid for customer  65 by 10.1.40.232:3966 is $3353.972
+Processing message: <InsertCost><Cost>250.317</Cost><AfterIndex>0</AfterIndex><TruckNumber>0</TruckNumber><Index>65</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>13667</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:13667; cost before: 250.317
+Random cost generated for 10.1.40.232:13667; cost after: 250.317
+Bid for customer  65 by 10.1.40.232:13667 is $250.317
+Processing message: <InsertCost><Cost>13725.782</Cost><AfterIndex>0</AfterIndex><TruckNumber>2</TruckNumber><Index>65</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>6251</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:6251; cost before: 13725.782
+Random cost generated for 10.1.40.232:6251; cost after: 13725.782
+Bid for customer  65 by 10.1.40.232:6251 is $13725.782
+Processing message: <InsertCost><Cost>3936.8337</Cost><AfterIndex>0</AfterIndex><TruckNumber>2</TruckNumber><Index>65</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>15720</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:15720; cost before: 3936.8337
+Random cost generated for 10.1.40.232:15720; cost after: 3936.8337
+Bid for customer  65 by 10.1.40.232:15720 is $3936.8337
+Shipment 65 was accepted for carrier 10.1.40.232:13667
+Processing message: <Confirm><Index>65</Index></Confirm>
+Sending shipment 66 to master server
+Processing message: <InsertCost><Cost>64740.516</Cost><AfterIndex>65</AfterIndex><TruckNumber>0</TruckNumber><Index>66</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>13667</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:13667; cost before: 64740.516
+Random cost generated for 10.1.40.232:13667; cost after: 64740.516
+Bid for customer  66 by 10.1.40.232:13667 is $64740.516
+Processing message: <InsertCost><Cost>5100.683</Cost><AfterIndex>12</AfterIndex><TruckNumber>1</TruckNumber><Index>66</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>3966</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Bid for customer  66 by 10.1.40.232:3966 is $5100.683
+Processing message: <InsertCost><Cost>21888.139</Cost><AfterIndex>0</AfterIndex><TruckNumber>2</TruckNumber><Index>66</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>15720</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:15720; cost before: 21888.139
+Random cost generated for 10.1.40.232:15720; cost after: 21888.139
+Bid for customer  66 by 10.1.40.232:15720 is $21888.139
+Processing message: <InsertCost><Cost>14269.862</Cost><AfterIndex>51</AfterIndex><TruckNumber>0</TruckNumber><Index>66</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>6251</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:6251; cost before: 14269.862
+Random cost generated for 10.1.40.232:6251; cost after: 14269.862
+Bid for customer  66 by 10.1.40.232:6251 is $14269.862
+Shipment 66 was accepted for carrier 10.1.40.232:3966
+Processing message: <Confirm><Index>66</Index></Confirm>
+Sending shipment 67 to master server
+Processing message: <InsertCost><Cost>2930.1382</Cost><AfterIndex>0</AfterIndex><TruckNumber>2</TruckNumber><Index>67</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>15720</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:15720; cost before: 2930.1382
+Random cost generated for 10.1.40.232:15720; cost after: 2930.1382
+Bid for customer  67 by 10.1.40.232:15720 is $2930.1382
+Processing message: <InsertCost><Cost>250.88353</Cost><AfterIndex>65</AfterIndex><TruckNumber>0</TruckNumber><Index>67</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>13667</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:13667; cost before: 250.88353
+Random cost generated for 10.1.40.232:13667; cost after: 250.88353
+Bid for customer  67 by 10.1.40.232:13667 is $250.88353
+Processing message: <InsertCost><Cost>12651.234</Cost><AfterIndex>0</AfterIndex><TruckNumber>2</TruckNumber><Index>67</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>6251</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:6251; cost before: 12651.234
+Random cost generated for 10.1.40.232:6251; cost after: 12651.234
+Bid for customer  67 by 10.1.40.232:6251 is $12651.234
+Processing message: <InsertCost><Cost>2423.0842</Cost><AfterIndex>0</AfterIndex><TruckNumber>4</TruckNumber><Index>67</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>3966</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Bid for customer  67 by 10.1.40.232:3966 is $2423.0842
+Shipment 67 was accepted for carrier 10.1.40.232:13667
+Processing message: <Confirm><Index>67</Index></Confirm>
+Sending shipment 68 to master server
+Processing message: <InsertCost><Cost>47302.824</Cost><AfterIndex>67</AfterIndex><TruckNumber>0</TruckNumber><Index>68</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>13667</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:13667; cost before: 47302.824
+Random cost generated for 10.1.40.232:13667; cost after: 47302.824
+Bid for customer  68 by 10.1.40.232:13667 is $47302.824
+Processing message: <InsertCost><Cost>45470.59</Cost><AfterIndex>62</AfterIndex><TruckNumber>3</TruckNumber><Index>68</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>3966</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Bid for customer  68 by 10.1.40.232:3966 is $45470.59
+Processing message: <InsertCost><Cost>18597.303</Cost><AfterIndex>0</AfterIndex><TruckNumber>2</TruckNumber><Index>68</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>15720</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:15720; cost before: 18597.303
+Random cost generated for 10.1.40.232:15720; cost after: 18597.303
+Bid for customer  68 by 10.1.40.232:15720 is $18597.303
+Processing message: <InsertCost><Cost>14325.076</Cost><AfterIndex>64</AfterIndex><TruckNumber>1</TruckNumber><Index>68</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>6251</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:6251; cost before: 14325.076
+Random cost generated for 10.1.40.232:6251; cost after: 14325.076
+Bid for customer  68 by 10.1.40.232:6251 is $14325.076
+Shipment 68 was accepted for carrier 10.1.40.232:6251
+Processing message: <Confirm><Index>68</Index></Confirm>
+Sending shipment 69 to master server
+Processing message: <InsertCost><Cost>63831.15</Cost><AfterIndex>62</AfterIndex><TruckNumber>3</TruckNumber><Index>69</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>3966</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Bid for customer  69 by 10.1.40.232:3966 is $63831.15
+Processing message: <InsertCost><Cost>4413.366</Cost><AfterIndex>51</AfterIndex><TruckNumber>0</TruckNumber><Index>69</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>6251</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:6251; cost before: 4413.366
+Random cost generated for 10.1.40.232:6251; cost after: 4413.366
+Bid for customer  69 by 10.1.40.232:6251 is $4413.366
+Processing message: <InsertCost><Cost>72530.16</Cost><AfterIndex>65</AfterIndex><TruckNumber>0</TruckNumber><Index>69</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>13667</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:13667; cost before: 72530.16
+Random cost generated for 10.1.40.232:13667; cost after: 72530.16
+Bid for customer  69 by 10.1.40.232:13667 is $72530.16
+Processing message: <InsertCost><Cost>2923.6733</Cost><AfterIndex>34</AfterIndex><TruckNumber>1</TruckNumber><Index>69</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>15720</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:15720; cost before: 2923.6733
+Random cost generated for 10.1.40.232:15720; cost after: 2923.6733
+Bid for customer  69 by 10.1.40.232:15720 is $2923.6733
+Shipment 69 was accepted for carrier 10.1.40.232:15720
+Processing message: <Confirm><Index>69</Index></Confirm>
+Sending shipment 70 to master server
+Processing message: <InsertCost><Cost>30790.598</Cost><AfterIndex>65</AfterIndex><TruckNumber>0</TruckNumber><Index>70</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>13667</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:13667; cost before: 30790.598
+Random cost generated for 10.1.40.232:13667; cost after: 30790.598
+Bid for customer  70 by 10.1.40.232:13667 is $30790.598
+Processing message: <InsertCost><Cost>38300.918</Cost><AfterIndex>0</AfterIndex><TruckNumber>2</TruckNumber><Index>70</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>15720</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:15720; cost before: 38300.918
+Random cost generated for 10.1.40.232:15720; cost after: 38300.918
+Bid for customer  70 by 10.1.40.232:15720 is $38300.918
+Processing message: <InsertCost><Cost>44003.33</Cost><AfterIndex>0</AfterIndex><TruckNumber>2</TruckNumber><Index>70</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>6251</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:6251; cost before: 44003.33
+Random cost generated for 10.1.40.232:6251; cost after: 44003.33
+Bid for customer  70 by 10.1.40.232:6251 is $44003.33
+Processing message: <InsertCost><Cost>2439.8254</Cost><AfterIndex>62</AfterIndex><TruckNumber>3</TruckNumber><Index>70</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>3966</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Bid for customer  70 by 10.1.40.232:3966 is $2439.8254
+Shipment 70 was accepted for carrier 10.1.40.232:3966
+Processing message: <Confirm><Index>70</Index></Confirm>
+Sending shipment 71 to master server
+Processing message: <InsertCost><Cost>13879.977</Cost><AfterIndex>65</AfterIndex><TruckNumber>0</TruckNumber><Index>71</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>13667</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:13667; cost before: 13879.977
+Random cost generated for 10.1.40.232:13667; cost after: 13879.977
+Bid for customer  71 by 10.1.40.232:13667 is $13879.977
+Processing message: <InsertCost><Cost>30108.734</Cost><AfterIndex>0</AfterIndex><TruckNumber>2</TruckNumber><Index>71</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>6251</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:6251; cost before: 30108.734
+Processing message: <InsertCost><Cost>27043.674</Cost><AfterIndex>0</AfterIndex><TruckNumber>2</TruckNumber><Index>71</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>15720</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:6251; cost after: 30108.734
+Bid for customer  71 by 10.1.40.232:6251 is $30108.734
+Random cost generated for 10.1.40.232:15720; cost before: 27043.674
+Random cost generated for 10.1.40.232:15720; cost after: 27043.674
+Bid for customer  71 by 10.1.40.232:15720 is $27043.674
+Processing message: <InsertCost><Cost>21191.895</Cost><AfterIndex>0</AfterIndex><TruckNumber>4</TruckNumber><Index>71</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>3966</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Bid for customer  71 by 10.1.40.232:3966 is $21191.895
+Shipment 71 was accepted for carrier 10.1.40.232:13667
+Processing message: <Confirm><Index>71</Index></Confirm>
+Sending shipment 72 to master server
+Processing message: <InsertCost><Cost>35622.387</Cost><AfterIndex>0</AfterIndex><TruckNumber>0</TruckNumber><Index>72</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>13667</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:13667; cost before: 35622.387
+Random cost generated for 10.1.40.232:13667; cost after: 35622.387
+Bid for customer  72 by 10.1.40.232:13667 is $35622.387
+Processing message: <InsertCost><Cost>26952.086</Cost><AfterIndex>63</AfterIndex><TruckNumber>4</TruckNumber><Index>72</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>3966</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Bid for customer  72 by 10.1.40.232:3966 is $26952.086
+Processing message: <InsertCost><Cost>18030.258</Cost><AfterIndex>0</AfterIndex><TruckNumber>2</TruckNumber><Index>72</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>15720</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:15720; cost before: 18030.258
+Random cost generated for 10.1.40.232:15720; cost after: 18030.258
+Bid for customer  72 by 10.1.40.232:15720 is $18030.258
+Processing message: <InsertCost><Cost>28677.082</Cost><AfterIndex>0</AfterIndex><TruckNumber>2</TruckNumber><Index>72</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>6251</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:6251; cost before: 28677.082
+Random cost generated for 10.1.40.232:6251; cost after: 28677.082
+Bid for customer  72 by 10.1.40.232:6251 is $28677.082
+Shipment 72 was accepted for carrier 10.1.40.232:15720
+Processing message: <Confirm><Index>72</Index></Confirm>
+Sending shipment 73 to master server
+Processing message: <InsertCost><Cost>46169.04</Cost><AfterIndex>65</AfterIndex><TruckNumber>0</TruckNumber><Index>73</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>13667</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:13667; cost before: 46169.04
+Random cost generated for 10.1.40.232:13667; cost after: 46169.04
+Bid for customer  73 by 10.1.40.232:13667 is $46169.04
+Processing message: <InsertCost><Cost>13157.167</Cost><AfterIndex>70</AfterIndex><TruckNumber>3</TruckNumber><Index>73</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>3966</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Bid for customer  73 by 10.1.40.232:3966 is $13157.167
+Processing message: <InsertCost><Cost>40491.312</Cost><AfterIndex>72</AfterIndex><TruckNumber>2</TruckNumber><Index>73</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>15720</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:15720; cost before: 40491.312
+Random cost generated for 10.1.40.232:15720; cost after: 40491.312
+Bid for customer  73 by 10.1.40.232:15720 is $40491.312
+Processing message: <InsertCost><Cost>55719.746</Cost><AfterIndex>0</AfterIndex><TruckNumber>2</TruckNumber><Index>73</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>6251</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:6251; cost before: 55719.746
+Random cost generated for 10.1.40.232:6251; cost after: 55719.746
+Bid for customer  73 by 10.1.40.232:6251 is $55719.746
+Shipment 73 was accepted for carrier 10.1.40.232:3966
+Processing message: <Confirm><Index>73</Index></Confirm>
+Sending shipment 74 to master server
+Processing message: <InsertCost><Cost>18784.19</Cost><AfterIndex>65</AfterIndex><TruckNumber>0</TruckNumber><Index>74</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>13667</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:13667; cost before: 18784.19
+Random cost generated for 10.1.40.232:13667; cost after: 18784.19
+Bid for customer  74 by 10.1.40.232:13667 is $18784.19
+Processing message: <InsertCost><Cost>28632.225</Cost><AfterIndex>0</AfterIndex><TruckNumber>4</TruckNumber><Index>74</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>3966</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Bid for customer  74 by 10.1.40.232:3966 is $28632.225
+Processing message: <InsertCost><Cost>12729.844</Cost><AfterIndex>63</AfterIndex><TruckNumber>2</TruckNumber><Index>74</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>15720</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:15720; cost before: 12729.844
+Random cost generated for 10.1.40.232:15720; cost after: 12729.844
+Bid for customer  74 by 10.1.40.232:15720 is $12729.844
+Processing message: <InsertCost><Cost>22744.852</Cost><AfterIndex>0</AfterIndex><TruckNumber>2</TruckNumber><Index>74</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>6251</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:6251; cost before: 22744.852
+Random cost generated for 10.1.40.232:6251; cost after: 22744.852
+Bid for customer  74 by 10.1.40.232:6251 is $22744.852
+Shipment 74 was accepted for carrier 10.1.40.232:15720
+Processing message: <Confirm><Index>74</Index></Confirm>
+Sending shipment 75 to master server
+Processing message: <InsertCost><Cost>110946.54</Cost><AfterIndex>65</AfterIndex><TruckNumber>0</TruckNumber><Index>75</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>13667</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:13667; cost before: 110946.54
+Random cost generated for 10.1.40.232:13667; cost after: 110946.54
+Bid for customer  75 by 10.1.40.232:13667 is $110946.54
+Processing message: <InsertCost><Cost>13169.895</Cost><AfterIndex>1</AfterIndex><TruckNumber>0</TruckNumber><Index>75</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>3966</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Bid for customer  75 by 10.1.40.232:3966 is $13169.895
+Processing message: <InsertCost><Cost>12781.466</Cost><AfterIndex>69</AfterIndex><TruckNumber>1</TruckNumber><Index>75</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>15720</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:15720; cost before: 12781.466
+Random cost generated for 10.1.40.232:15720; cost after: 12781.466
+Bid for customer  75 by 10.1.40.232:15720 is $12781.466
+Processing message: <InsertCost><Cost>16991.023</Cost><AfterIndex>51</AfterIndex><TruckNumber>0</TruckNumber><Index>75</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>6251</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:6251; cost before: 16991.023
+Random cost generated for 10.1.40.232:6251; cost after: 16991.023
+Bid for customer  75 by 10.1.40.232:6251 is $16991.023
+Shipment 75 was accepted for carrier 10.1.40.232:15720
+Processing message: <Confirm><Index>75</Index></Confirm>
+Sending shipment 76 to master server
+Processing message: <InsertCost><Cost>451.17337</Cost><AfterIndex>65</AfterIndex><TruckNumber>0</TruckNumber><Index>76</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>13667</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:13667; cost before: 451.17337
+Random cost generated for 10.1.40.232:13667; cost after: 451.17337
+Bid for customer  76 by 10.1.40.232:13667 is $451.17337
+Processing message: <InsertCost><Cost>23853.207</Cost><AfterIndex>0</AfterIndex><TruckNumber>4</TruckNumber><Index>76</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>3966</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Bid for customer  76 by 10.1.40.232:3966 is $23853.207
+Processing message: <InsertCost><Cost>16832.777</Cost><AfterIndex>0</AfterIndex><TruckNumber>2</TruckNumber><Index>76</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>6251</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:6251; cost before: 16832.777
+Random cost generated for 10.1.40.232:6251; cost after: 16832.777
+Bid for customer  76 by 10.1.40.232:6251 is $16832.777
+Processing message: <InsertCost><Cost>26091.465</Cost><AfterIndex>0</AfterIndex><TruckNumber>3</TruckNumber><Index>76</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>15720</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:15720; cost before: 26091.465
+Random cost generated for 10.1.40.232:15720; cost after: 26091.465
+Bid for customer  76 by 10.1.40.232:15720 is $26091.465
+Shipment 76 was accepted for carrier 10.1.40.232:13667
+Processing message: <Confirm><Index>76</Index></Confirm>
+Sending shipment 77 to master server
+Processing message: <InsertCost><Cost>46610.59</Cost><AfterIndex>76</AfterIndex><TruckNumber>0</TruckNumber><Index>77</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>13667</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:13667; cost before: 46610.59
+Random cost generated for 10.1.40.232:13667; cost after: 46610.59
+Bid for customer  77 by 10.1.40.232:13667 is $46610.59
+Processing message: <InsertCost><Cost>13158.341</Cost><AfterIndex>73</AfterIndex><TruckNumber>3</TruckNumber><Index>77</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>3966</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Bid for customer  77 by 10.1.40.232:3966 is $13158.341
+Processing message: <InsertCost><Cost>27829.96</Cost><AfterIndex>72</AfterIndex><TruckNumber>2</TruckNumber><Index>77</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>15720</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:15720; cost before: 27829.96
+Random cost generated for 10.1.40.232:15720; cost after: 27829.96
+Bid for customer  77 by 10.1.40.232:15720 is $27829.96
+Processing message: <InsertCost><Cost>66665.28</Cost><AfterIndex>0</AfterIndex><TruckNumber>2</TruckNumber><Index>77</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>6251</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:6251; cost before: 66665.28
+Random cost generated for 10.1.40.232:6251; cost after: 66665.28
+Bid for customer  77 by 10.1.40.232:6251 is $66665.28
+Shipment 77 was accepted for carrier 10.1.40.232:3966
+Processing message: <Confirm><Index>77</Index></Confirm>
+Sending shipment 78 to master server
+Processing message: <InsertCost><Cost>614.99036</Cost><AfterIndex>0</AfterIndex><TruckNumber>1</TruckNumber><Index>78</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>13667</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:13667; cost before: 614.99036
+Random cost generated for 10.1.40.232:13667; cost after: 614.99036
+Bid for customer  78 by 10.1.40.232:13667 is $614.99036
+Processing message: <InsertCost><Cost>9118.983</Cost><AfterIndex>0</AfterIndex><TruckNumber>2</TruckNumber><Index>78</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>15720</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:15720; cost before: 9118.983
+Random cost generated for 10.1.40.232:15720; cost after: 9118.983
+Bid for customer  78 by 10.1.40.232:15720 is $9118.983
+Processing message: <InsertCost><Cost>16271.131</Cost><AfterIndex>0</AfterIndex><TruckNumber>4</TruckNumber><Index>78</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>3966</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Bid for customer  78 by 10.1.40.232:3966 is $16271.131
+Processing message: <InsertCost><Cost>3187.7039</Cost><AfterIndex>0</AfterIndex><TruckNumber>2</TruckNumber><Index>78</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>6251</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:6251; cost before: 3187.7039
+Random cost generated for 10.1.40.232:6251; cost after: 3187.7039
+Bid for customer  78 by 10.1.40.232:6251 is $3187.7039
+Shipment 78 was accepted for carrier 10.1.40.232:13667
+Processing message: <Confirm><Index>78</Index></Confirm>
+Sending shipment 79 to master server
+Processing message: <InsertCost><Cost>47628.27</Cost><AfterIndex>76</AfterIndex><TruckNumber>0</TruckNumber><Index>79</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>13667</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:13667; cost before: 47628.27
+Random cost generated for 10.1.40.232:13667; cost after: 47628.27
+Bid for customer  79 by 10.1.40.232:13667 is $47628.27
+Processing message: <InsertCost><Cost>37557.617</Cost><AfterIndex>72</AfterIndex><TruckNumber>2</TruckNumber><Index>79</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>15720</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:15720; cost before: 37557.617
+Random cost generated for 10.1.40.232:15720; cost after: 37557.617
+Bid for customer  79 by 10.1.40.232:15720 is $37557.617
+Processing message: <InsertCost><Cost>13158.665</Cost><AfterIndex>77</AfterIndex><TruckNumber>3</TruckNumber><Index>79</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>3966</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Bid for customer  79 by 10.1.40.232:3966 is $13158.665
+Processing message: <InsertCost><Cost>79008.92</Cost><AfterIndex>0</AfterIndex><TruckNumber>2</TruckNumber><Index>79</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>6251</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:6251; cost before: 79008.92
+Random cost generated for 10.1.40.232:6251; cost after: 79008.92
+Bid for customer  79 by 10.1.40.232:6251 is $79008.92
+Shipment 79 was accepted for carrier 10.1.40.232:3966
+Processing message: <Confirm><Index>79</Index></Confirm>
+Sending shipment 80 to master server
+Processing message: <InsertCost><Cost>66556.82</Cost><AfterIndex>76</AfterIndex><TruckNumber>0</TruckNumber><Index>80</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>13667</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:13667; cost before: 66556.82
+Random cost generated for 10.1.40.232:13667; cost after: 66556.82
+Bid for customer  80 by 10.1.40.232:13667 is $66556.82
+Processing message: <InsertCost><Cost>13166.701</Cost><AfterIndex>79</AfterIndex><TruckNumber>3</TruckNumber><Index>80</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>3966</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Bid for customer  80 by 10.1.40.232:3966 is $13166.701
+Processing message: <InsertCost><Cost>48740.586</Cost><AfterIndex>72</AfterIndex><TruckNumber>2</TruckNumber><Index>80</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>15720</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:15720; cost before: 48740.586
+Random cost generated for 10.1.40.232:15720; cost after: 48740.586
+Bid for customer  80 by 10.1.40.232:15720 is $48740.586
+Processing message: <InsertCost><Cost>90519.53</Cost><AfterIndex>0</AfterIndex><TruckNumber>2</TruckNumber><Index>80</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>6251</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:6251; cost before: 90519.53
+Random cost generated for 10.1.40.232:6251; cost after: 90519.53
+Bid for customer  80 by 10.1.40.232:6251 is $90519.53
+Shipment 80 was accepted for carrier 10.1.40.232:3966
+Processing message: <Confirm><Index>80</Index></Confirm>
+Sending shipment 81 to master server
+Processing message: <InsertCost><Cost>14060.813</Cost><AfterIndex>0</AfterIndex><TruckNumber>4</TruckNumber><Index>81</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>3966</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Processing message: <InsertCost><Cost>609.3253</Cost><AfterIndex>0</AfterIndex><TruckNumber>1</TruckNumber><Index>81</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>13667</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Bid for customer  81 by 10.1.40.232:3966 is $14060.813
+Random cost generated for 10.1.40.232:13667; cost before: 609.3253
+Random cost generated for 10.1.40.232:13667; cost after: 609.3254
+Bid for customer  81 by 10.1.40.232:13667 is $609.3254
+Processing message: <InsertCost><Cost>9501.361</Cost><AfterIndex>0</AfterIndex><TruckNumber>2</TruckNumber><Index>81</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>15720</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:15720; cost before: 9501.361
+Random cost generated for 10.1.40.232:15720; cost after: 9501.361
+Bid for customer  81 by 10.1.40.232:15720 is $9501.361
+Processing message: <InsertCost><Cost>2016.8278</Cost><AfterIndex>0</AfterIndex><TruckNumber>2</TruckNumber><Index>81</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>6251</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:6251; cost before: 2016.8278
+Random cost generated for 10.1.40.232:6251; cost after: 2016.8278
+Bid for customer  81 by 10.1.40.232:6251 is $2016.8278
+Shipment 81 was accepted for carrier 10.1.40.232:13667
+Processing message: <Confirm><Index>81</Index></Confirm>
+Sending shipment 82 to master server
+Processing message: <InsertCost><Cost>438.43088</Cost><AfterIndex>76</AfterIndex><TruckNumber>0</TruckNumber><Index>82</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>13667</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:13667; cost before: 438.43088
+Random cost generated for 10.1.40.232:13667; cost after: 438.43094
+Bid for customer  82 by 10.1.40.232:13667 is $438.43094
+Processing message: <InsertCost><Cost>23576.559</Cost><AfterIndex>0</AfterIndex><TruckNumber>4</TruckNumber><Index>82</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>3966</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Bid for customer  82 by 10.1.40.232:3966 is $23576.559
+Processing message: <InsertCost><Cost>38365.906</Cost><AfterIndex>0</AfterIndex><TruckNumber>2</TruckNumber><Index>82</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>6251</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:6251; cost before: 38365.906
+Random cost generated for 10.1.40.232:6251; cost after: 38365.906
+Bid for customer  82 by 10.1.40.232:6251 is $38365.906
+Processing message: <InsertCost><Cost>39639.203</Cost><AfterIndex>0</AfterIndex><TruckNumber>3</TruckNumber><Index>82</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>15720</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:15720; cost before: 39639.203
+Random cost generated for 10.1.40.232:15720; cost after: 39639.203
+Bid for customer  82 by 10.1.40.232:15720 is $39639.203
+Shipment 82 was accepted for carrier 10.1.40.232:13667
+Processing message: <Confirm><Index>82</Index></Confirm>
+Sending shipment 83 to master server
+Processing message: <InsertCost><Cost>9737.76</Cost><AfterIndex>65</AfterIndex><TruckNumber>1</TruckNumber><Index>83</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>13667</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:13667; cost before: 9737.76
+Random cost generated for 10.1.40.232:13667; cost after: 9737.76
+Bid for customer  83 by 10.1.40.232:13667 is $9737.76
+Processing message: <InsertCost><Cost>15362.19</Cost><AfterIndex>63</AfterIndex><TruckNumber>2</TruckNumber><Index>83</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>15720</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:15720; cost before: 15362.19
+Random cost generated for 10.1.40.232:15720; cost after: 15362.19
+Bid for customer  83 by 10.1.40.232:15720 is $15362.19
+Processing message: <InsertCost><Cost>18782.701</Cost><AfterIndex>0</AfterIndex><TruckNumber>4</TruckNumber><Index>83</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>3966</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Bid for customer  83 by 10.1.40.232:3966 is $18782.701
+Processing message: <InsertCost><Cost>22733.648</Cost><AfterIndex>0</AfterIndex><TruckNumber>2</TruckNumber><Index>83</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>6251</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:6251; cost before: 22733.648
+Random cost generated for 10.1.40.232:6251; cost after: 22733.648
+Bid for customer  83 by 10.1.40.232:6251 is $22733.648
+Shipment 83 was accepted for carrier 10.1.40.232:13667
+Processing message: <Confirm><Index>83</Index></Confirm>
+Sending shipment 84 to master server
+Processing message: <InsertCost><Cost>442.0424</Cost><AfterIndex>82</AfterIndex><TruckNumber>0</TruckNumber><Index>84</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>13667</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:13667; cost before: 442.0424
+Random cost generated for 10.1.40.232:13667; cost after: 442.0424
+Bid for customer  84 by 10.1.40.232:13667 is $442.0424
+Processing message: <InsertCost><Cost>21647.43</Cost><AfterIndex>0</AfterIndex><TruckNumber>4</TruckNumber><Index>84</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>3966</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Bid for customer  84 by 10.1.40.232:3966 is $21647.43
+Processing message: <InsertCost><Cost>46307.53</Cost><AfterIndex>0</AfterIndex><TruckNumber>3</TruckNumber><Index>84</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>15720</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:15720; cost before: 46307.53
+Random cost generated for 10.1.40.232:15720; cost after: 46307.53
+Bid for customer  84 by 10.1.40.232:15720 is $46307.53
+Processing message: <InsertCost><Cost>47502.094</Cost><AfterIndex>0</AfterIndex><TruckNumber>2</TruckNumber><Index>84</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>6251</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:6251; cost before: 47502.094
+Random cost generated for 10.1.40.232:6251; cost after: 47502.094
+Bid for customer  84 by 10.1.40.232:6251 is $47502.094
+Shipment 84 was accepted for carrier 10.1.40.232:13667
+Processing message: <Confirm><Index>84</Index></Confirm>
+Sending shipment 85 to master server
+Processing message: <InsertCost><Cost>55572.082</Cost><AfterIndex>65</AfterIndex><TruckNumber>1</TruckNumber><Index>85</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>13667</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:13667; cost before: 55572.082
+Random cost generated for 10.1.40.232:13667; cost after: 55572.082
+Bid for customer  85 by 10.1.40.232:13667 is $55572.082
+Processing message: <InsertCost><Cost>9559.594</Cost><AfterIndex>72</AfterIndex><TruckNumber>2</TruckNumber><Index>85</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>15720</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:15720; cost before: 9559.594
+Random cost generated for 10.1.40.232:15720; cost after: 9559.594
+Bid for customer  85 by 10.1.40.232:15720 is $9559.594
+Processing message: <InsertCost><Cost>20080.127</Cost><AfterIndex>0</AfterIndex><TruckNumber>4</TruckNumber><Index>85</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>3966</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Bid for customer  85 by 10.1.40.232:3966 is $20080.127
+Processing message: <InsertCost><Cost>59875.195</Cost><AfterIndex>0</AfterIndex><TruckNumber>2</TruckNumber><Index>85</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>6251</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:6251; cost before: 59875.195
+Random cost generated for 10.1.40.232:6251; cost after: 59875.195
+Bid for customer  85 by 10.1.40.232:6251 is $59875.195
+Shipment 85 was accepted for carrier 10.1.40.232:15720
+Processing message: <Confirm><Index>85</Index></Confirm>
+Sending shipment 86 to master server
+Processing message: <InsertCost><Cost>564.81116</Cost><AfterIndex>65</AfterIndex><TruckNumber>1</TruckNumber><Index>86</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>13667</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:13667; cost before: 564.81116
+Processing message: <InsertCost><Cost>13856.238</Cost><AfterIndex>0</AfterIndex><TruckNumber>4</TruckNumber><Index>86</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>3966</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:13667; cost after: 564.8112
+Bid for customer  86 by 10.1.40.232:13667 is $564.8112
+Bid for customer  86 by 10.1.40.232:3966 is $13856.238
+Processing message: <InsertCost><Cost>15266.391</Cost><AfterIndex>0</AfterIndex><TruckNumber>3</TruckNumber><Index>86</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>15720</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:15720; cost before: 15266.391
+Random cost generated for 10.1.40.232:15720; cost after: 15266.391
+Bid for customer  86 by 10.1.40.232:15720 is $15266.391
+Processing message: <InsertCost><Cost>11435.795</Cost><AfterIndex>0</AfterIndex><TruckNumber>2</TruckNumber><Index>86</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>6251</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:6251; cost before: 11435.795
+Random cost generated for 10.1.40.232:6251; cost after: 11435.795
+Bid for customer  86 by 10.1.40.232:6251 is $11435.795
+Shipment 86 was accepted for carrier 10.1.40.232:13667
+Processing message: <Confirm><Index>86</Index></Confirm>
+Sending shipment 87 to master server
+Processing message: <InsertCost><Cost>709.37384</Cost><AfterIndex>0</AfterIndex><TruckNumber>2</TruckNumber><Index>87</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>13667</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:13667; cost before: 709.37384
+Random cost generated for 10.1.40.232:13667; cost after: 709.3739
+Bid for customer  87 by 10.1.40.232:13667 is $709.3739
+Processing message: <InsertCost><Cost>12841.691</Cost><AfterIndex>0</AfterIndex><TruckNumber>4</TruckNumber><Index>87</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>3966</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Bid for customer  87 by 10.1.40.232:3966 is $12841.691
+Processing message: <InsertCost><Cost>9440.27</Cost><AfterIndex>0</AfterIndex><TruckNumber>3</TruckNumber><Index>87</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>15720</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:15720; cost before: 9440.27
+Random cost generated for 10.1.40.232:15720; cost after: 9440.27
+Bid for customer  87 by 10.1.40.232:15720 is $9440.27
+Processing message: <InsertCost><Cost>1816.22</Cost><AfterIndex>0</AfterIndex><TruckNumber>2</TruckNumber><Index>87</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>6251</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:6251; cost before: 1816.22
+Random cost generated for 10.1.40.232:6251; cost after: 1816.2201
+Bid for customer  87 by 10.1.40.232:6251 is $1816.2201
+Shipment 87 was accepted for carrier 10.1.40.232:13667
+Processing message: <Confirm><Index>87</Index></Confirm>
+Sending shipment 88 to master server
+Processing message: <InsertCost><Cost>12247.2295</Cost><AfterIndex>77</AfterIndex><TruckNumber>3</TruckNumber><Index>88</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>3966</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Bid for customer  88 by 10.1.40.232:3966 is $12247.2295
+Processing message: <InsertCost><Cost>67290.78</Cost><AfterIndex>65</AfterIndex><TruckNumber>1</TruckNumber><Index>88</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>13667</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:13667; cost before: 67290.78
+Random cost generated for 10.1.40.232:13667; cost after: 67290.78
+Bid for customer  88 by 10.1.40.232:13667 is $67290.78
+Processing message: <InsertCost><Cost>52912.973</Cost><AfterIndex>0</AfterIndex><TruckNumber>3</TruckNumber><Index>88</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>15720</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:15720; cost before: 52912.973
+Random cost generated for 10.1.40.232:15720; cost after: 52912.973
+Bid for customer  88 by 10.1.40.232:15720 is $52912.973
+Processing message: <InsertCost><Cost>3053.9282</Cost><AfterIndex>39</AfterIndex><TruckNumber>0</TruckNumber><Index>88</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>6251</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:6251; cost before: 3053.9282
+Random cost generated for 10.1.40.232:6251; cost after: 3053.9282
+Bid for customer  88 by 10.1.40.232:6251 is $3053.9282
+Shipment 88 was accepted for carrier 10.1.40.232:6251
+Processing message: <Confirm><Index>88</Index></Confirm>
+Sending shipment 89 to master server
+Processing message: <InsertCost><Cost>78198.36</Cost><AfterIndex>65</AfterIndex><TruckNumber>1</TruckNumber><Index>89</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>13667</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:13667; cost before: 78198.36
+Random cost generated for 10.1.40.232:13667; cost after: 78198.36
+Bid for customer  89 by 10.1.40.232:13667 is $78198.36
+Processing message: <InsertCost><Cost>12189.084</Cost><AfterIndex>12</AfterIndex><TruckNumber>1</TruckNumber><Index>89</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>3966</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Bid for customer  89 by 10.1.40.232:3966 is $12189.084
+Processing message: <InsertCost><Cost>56468.242</Cost><AfterIndex>0</AfterIndex><TruckNumber>3</TruckNumber><Index>89</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>15720</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:15720; cost before: 56468.242
+Random cost generated for 10.1.40.232:15720; cost after: 56468.242
+Bid for customer  89 by 10.1.40.232:15720 is $56468.242
+Processing message: <InsertCost><Cost>3053.9946</Cost><AfterIndex>88</AfterIndex><TruckNumber>0</TruckNumber><Index>89</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>6251</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:6251; cost before: 3053.9946
+Random cost generated for 10.1.40.232:6251; cost after: 3053.9946
+Bid for customer  89 by 10.1.40.232:6251 is $3053.9946
+Shipment 89 was accepted for carrier 10.1.40.232:6251
+Processing message: <Confirm><Index>89</Index></Confirm>
+Sending shipment 90 to master server
+Processing message: <InsertCost><Cost>578.2189</Cost><AfterIndex>0</AfterIndex><TruckNumber>2</TruckNumber><Index>90</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>13667</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:13667; cost before: 578.2189
+Random cost generated for 10.1.40.232:13667; cost after: 578.21893
+Bid for customer  90 by 10.1.40.232:13667 is $578.21893
+Processing message: <InsertCost><Cost>12295.59</Cost><AfterIndex>0</AfterIndex><TruckNumber>4</TruckNumber><Index>90</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>3966</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Bid for customer  90 by 10.1.40.232:3966 is $12295.59
+Processing message: <InsertCost><Cost>7993.9727</Cost><AfterIndex>0</AfterIndex><TruckNumber>3</TruckNumber><Index>90</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>15720</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:15720; cost before: 7993.9727
+Random cost generated for 10.1.40.232:15720; cost after: 7993.9727
+Bid for customer  90 by 10.1.40.232:15720 is $7993.9727
+Processing message: <InsertCost><Cost>3160.2961</Cost><AfterIndex>0</AfterIndex><TruckNumber>3</TruckNumber><Index>90</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>6251</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:6251; cost before: 3160.2961
+Random cost generated for 10.1.40.232:6251; cost after: 3160.2961
+Bid for customer  90 by 10.1.40.232:6251 is $3160.2961
+Shipment 90 was accepted for carrier 10.1.40.232:13667
+Processing message: <Confirm><Index>90</Index></Confirm>
+Sending shipment 91 to master server
+Processing message: <InsertCost><Cost>285.174</Cost><AfterIndex>51</AfterIndex><TruckNumber>0</TruckNumber><Index>91</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>13667</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:13667; cost before: 285.174
+Random cost generated for 10.1.40.232:13667; cost after: 285.1741
+Bid for customer  91 by 10.1.40.232:13667 is $285.1741
+Processing message: <InsertCost><Cost>16846.096</Cost><AfterIndex>12</AfterIndex><TruckNumber>1</TruckNumber><Index>91</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>3966</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Bid for customer  91 by 10.1.40.232:3966 is $16846.096
+Processing message: <InsertCost><Cost>57502.58</Cost><AfterIndex>65</AfterIndex><TruckNumber>3</TruckNumber><Index>91</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>15720</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:15720; cost before: 57502.58
+Random cost generated for 10.1.40.232:15720; cost after: 57502.58
+Bid for customer  91 by 10.1.40.232:15720 is $57502.58
+Processing message: <InsertCost><Cost>3196.5837</Cost><AfterIndex>89</AfterIndex><TruckNumber>0</TruckNumber><Index>91</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>6251</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:6251; cost before: 3196.5837
+Random cost generated for 10.1.40.232:6251; cost after: 3196.5837
+Bid for customer  91 by 10.1.40.232:6251 is $3196.5837
+Shipment 91 was accepted for carrier 10.1.40.232:13667
+Processing message: <Confirm><Index>91</Index></Confirm>
+Sending shipment 92 to master server
+Processing message: <InsertCost><Cost>27905.49</Cost><AfterIndex>65</AfterIndex><TruckNumber>1</TruckNumber><Index>92</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>13667</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:13667; cost before: 27905.49
+Random cost generated for 10.1.40.232:13667; cost after: 27905.49
+Bid for customer  92 by 10.1.40.232:13667 is $27905.49
+Processing message: <InsertCost><Cost>28026.031</Cost><AfterIndex>0</AfterIndex><TruckNumber>4</TruckNumber><Index>92</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>3966</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Bid for customer  92 by 10.1.40.232:3966 is $28026.031
+Processing message: <InsertCost><Cost>26665.473</Cost><AfterIndex>20</AfterIndex><TruckNumber>3</TruckNumber><Index>92</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>15720</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:15720; cost before: 26665.473
+Random cost generated for 10.1.40.232:15720; cost after: 26665.473
+Bid for customer  92 by 10.1.40.232:15720 is $26665.473
+Processing message: <InsertCost><Cost>3189.7644</Cost><AfterIndex>62</AfterIndex><TruckNumber>2</TruckNumber><Index>92</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>6251</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:6251; cost before: 3189.7644
+Random cost generated for 10.1.40.232:6251; cost after: 3189.7644
+Bid for customer  92 by 10.1.40.232:6251 is $3189.7644
+Shipment 92 was accepted for carrier 10.1.40.232:6251
+Processing message: <Confirm><Index>92</Index></Confirm>
+Sending shipment 93 to master server
+Processing message: <InsertCost><Cost>50887.527</Cost><AfterIndex>65</AfterIndex><TruckNumber>1</TruckNumber><Index>93</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>13667</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:13667; cost before: 50887.527
+Random cost generated for 10.1.40.232:13667; cost after: 50887.527
+Bid for customer  93 by 10.1.40.232:13667 is $50887.527
+Processing message: <InsertCost><Cost>41488.19</Cost><AfterIndex>20</AfterIndex><TruckNumber>3</TruckNumber><Index>93</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>15720</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:15720; cost before: 41488.19
+Random cost generated for 10.1.40.232:15720; cost after: 41488.19
+Bid for customer  93 by 10.1.40.232:15720 is $41488.19
+Processing message: <InsertCost><Cost>33985.14</Cost><AfterIndex>0</AfterIndex><TruckNumber>4</TruckNumber><Index>93</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>3966</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Bid for customer  93 by 10.1.40.232:3966 is $33985.14
+Processing message: <InsertCost><Cost>3190.6091</Cost><AfterIndex>92</AfterIndex><TruckNumber>2</TruckNumber><Index>93</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>6251</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:6251; cost before: 3190.6091
+Random cost generated for 10.1.40.232:6251; cost after: 3190.6091
+Bid for customer  93 by 10.1.40.232:6251 is $3190.6091
+Shipment 93 was accepted for carrier 10.1.40.232:6251
+Processing message: <Confirm><Index>93</Index></Confirm>
+Sending shipment 94 to master server
+Processing message: <InsertCost><Cost>14437.361</Cost><AfterIndex>65</AfterIndex><TruckNumber>1</TruckNumber><Index>94</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>13667</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:13667; cost before: 14437.361
+Random cost generated for 10.1.40.232:13667; cost after: 14437.361
+Bid for customer  94 by 10.1.40.232:13667 is $14437.361
+Processing message: <InsertCost><Cost>17387.799</Cost><AfterIndex>20</AfterIndex><TruckNumber>3</TruckNumber><Index>94</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>15720</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:15720; cost before: 17387.799
+Random cost generated for 10.1.40.232:15720; cost after: 17387.799
+Bid for customer  94 by 10.1.40.232:15720 is $17387.799
+Processing message: <InsertCost><Cost>22894.445</Cost><AfterIndex>0</AfterIndex><TruckNumber>4</TruckNumber><Index>94</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>3966</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Bid for customer  94 by 10.1.40.232:3966 is $22894.445
+Processing message: <InsertCost><Cost>31442.715</Cost><AfterIndex>0</AfterIndex><TruckNumber>3</TruckNumber><Index>94</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>6251</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:6251; cost before: 31442.715
+Random cost generated for 10.1.40.232:6251; cost after: 31442.715
+Bid for customer  94 by 10.1.40.232:6251 is $31442.715
+Shipment 94 was accepted for carrier 10.1.40.232:13667
+Processing message: <Confirm><Index>94</Index></Confirm>
+Sending shipment 95 to master server
+Processing message: <InsertCost><Cost>15611.391</Cost><AfterIndex>0</AfterIndex><TruckNumber>1</TruckNumber><Index>95</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>13667</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:13667; cost before: 15611.391
+Random cost generated for 10.1.40.232:13667; cost after: 15611.391
+Bid for customer  95 by 10.1.40.232:13667 is $15611.391
+Processing message: <InsertCost><Cost>26057.305</Cost><AfterIndex>0</AfterIndex><TruckNumber>5</TruckNumber><Index>95</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>3966</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Bid for customer  95 by 10.1.40.232:3966 is $26057.305
+Processing message: <InsertCost><Cost>16692.648</Cost><AfterIndex>0</AfterIndex><TruckNumber>3</TruckNumber><Index>95</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>15720</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:15720; cost before: 16692.648
+Random cost generated for 10.1.40.232:15720; cost after: 16692.648
+Bid for customer  95 by 10.1.40.232:15720 is $16692.648
+Processing message: <InsertCost><Cost>18149.736</Cost><AfterIndex>0</AfterIndex><TruckNumber>3</TruckNumber><Index>95</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>6251</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:6251; cost before: 18149.736
+Random cost generated for 10.1.40.232:6251; cost after: 18149.736
+Bid for customer  95 by 10.1.40.232:6251 is $18149.736
+Shipment 95 was accepted for carrier 10.1.40.232:13667
+Processing message: <Confirm><Index>95</Index></Confirm>
+Sending shipment 96 to master server
+Processing message: <InsertCost><Cost>471.1163</Cost><AfterIndex>0</AfterIndex><TruckNumber>1</TruckNumber><Index>96</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>13667</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:13667; cost before: 471.1163
+Random cost generated for 10.1.40.232:13667; cost after: 471.1164
+Bid for customer  96 by 10.1.40.232:13667 is $471.1164
+Processing message: <InsertCost><Cost>5225.3096</Cost><AfterIndex>0</AfterIndex><TruckNumber>3</TruckNumber><Index>96</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>15720</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Processing message: <InsertCost><Cost>18595.29</Cost><AfterIndex>0</AfterIndex><TruckNumber>5</TruckNumber><Index>96</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>3966</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:15720; cost before: 5225.3096
+Random cost generated for 10.1.40.232:15720; cost after: 5225.3096
+Bid for customer  96 by 10.1.40.232:3966 is $18595.29
+Bid for customer  96 by 10.1.40.232:15720 is $5225.3096
+Processing message: <InsertCost><Cost>3388.1914</Cost><AfterIndex>0</AfterIndex><TruckNumber>3</TruckNumber><Index>96</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>6251</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:6251; cost before: 3388.1914
+Random cost generated for 10.1.40.232:6251; cost after: 3388.1914
+Bid for customer  96 by 10.1.40.232:6251 is $3388.1914
+Shipment 96 was accepted for carrier 10.1.40.232:13667
+Processing message: <Confirm><Index>96</Index></Confirm>
+Sending shipment 97 to master server
+Processing message: <InsertCost><Cost>79956.73</Cost><AfterIndex>0</AfterIndex><TruckNumber>1</TruckNumber><Index>97</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>13667</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:13667; cost before: 79956.73
+Random cost generated for 10.1.40.232:13667; cost after: 79956.73
+Bid for customer  97 by 10.1.40.232:13667 is $79956.73
+Processing message: <InsertCost><Cost>42145.29</Cost><AfterIndex>0</AfterIndex><TruckNumber>5</TruckNumber><Index>97</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>3966</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Bid for customer  97 by 10.1.40.232:3966 is $42145.29
+Processing message: <InsertCost><Cost>59229.87</Cost><AfterIndex>96</AfterIndex><TruckNumber>3</TruckNumber><Index>97</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>6251</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:6251; cost before: 59229.87
+Random cost generated for 10.1.40.232:6251; cost after: 59229.87
+Bid for customer  97 by 10.1.40.232:6251 is $59229.87
+Processing message: <InsertCost><Cost>4408.1133</Cost><AfterIndex>74</AfterIndex><TruckNumber>2</TruckNumber><Index>97</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>15720</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:15720; cost before: 4408.1133
+Random cost generated for 10.1.40.232:15720; cost after: 4408.1133
+Bid for customer  97 by 10.1.40.232:15720 is $4408.1133
+Shipment 97 was accepted for carrier 10.1.40.232:15720
+Processing message: <Confirm><Index>97</Index></Confirm>
+Sending shipment 98 to master server
+Processing message: <InsertCost><Cost>17242.586</Cost><AfterIndex>0</AfterIndex><TruckNumber>5</TruckNumber><Index>98</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>3966</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Processing message: <InsertCost><Cost>460.67426</Cost><AfterIndex>0</AfterIndex><TruckNumber>1</TruckNumber><Index>98</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>13667</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Bid for customer  98 by 10.1.40.232:3966 is $17242.586
+Random cost generated for 10.1.40.232:13667; cost before: 460.67426
+Random cost generated for 10.1.40.232:13667; cost after: 460.6743
+Bid for customer  98 by 10.1.40.232:13667 is $460.6743
+Processing message: <InsertCost><Cost>4338.499</Cost><AfterIndex>0</AfterIndex><TruckNumber>3</TruckNumber><Index>98</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>15720</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:15720; cost before: 4338.499
+Random cost generated for 10.1.40.232:15720; cost after: 4338.499
+Bid for customer  98 by 10.1.40.232:15720 is $4338.499
+Processing message: <InsertCost><Cost>3521.8926</Cost><AfterIndex>0</AfterIndex><TruckNumber>4</TruckNumber><Index>98</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>6251</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:6251; cost before: 3521.8926
+Random cost generated for 10.1.40.232:6251; cost after: 3521.8926
+Bid for customer  98 by 10.1.40.232:6251 is $3521.8926
+Shipment 98 was accepted for carrier 10.1.40.232:13667
+Processing message: <Confirm><Index>98</Index></Confirm>
+Sending shipment 99 to master server
+Processing message: <InsertCost><Cost>76132.12</Cost><AfterIndex>96</AfterIndex><TruckNumber>1</TruckNumber><Index>99</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>13667</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:13667; cost before: 76132.12
+Random cost generated for 10.1.40.232:13667; cost after: 76132.12
+Bid for customer  99 by 10.1.40.232:13667 is $76132.12
+Processing message: <InsertCost><Cost>23210.293</Cost><AfterIndex>14</AfterIndex><TruckNumber>1</TruckNumber><Index>99</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>3966</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Bid for customer  99 by 10.1.40.232:3966 is $23210.293
+Processing message: <InsertCost><Cost>68956.53</Cost><AfterIndex>0</AfterIndex><TruckNumber>3</TruckNumber><Index>99</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>15720</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:15720; cost before: 68956.53
+Random cost generated for 10.1.40.232:15720; cost after: 68956.53
+Bid for customer  99 by 10.1.40.232:15720 is $68956.53
+Processing message: <InsertCost><Cost>91638.336</Cost><AfterIndex>0</AfterIndex><TruckNumber>3</TruckNumber><Index>99</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>6251</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:6251; cost before: 91638.336
+Random cost generated for 10.1.40.232:6251; cost after: 91638.336
+Bid for customer  99 by 10.1.40.232:6251 is $91638.336
+Shipment 99 was accepted for carrier 10.1.40.232:3966
+Processing message: <Confirm><Index>99</Index></Confirm>
+Sending shipment 100 to master server
+Processing message: <InsertCost><Cost>91581.0</Cost><AfterIndex>0</AfterIndex><TruckNumber>1</TruckNumber><Index>100</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>13667</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:13667; cost before: 91581.0
+Random cost generated for 10.1.40.232:13667; cost after: 91581.0
+Bid for customer  100 by 10.1.40.232:13667 is $91581.0
+Processing message: <InsertCost><Cost>17640.145</Cost><AfterIndex>85</AfterIndex><TruckNumber>4</TruckNumber><Index>100</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>3966</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Bid for customer  100 by 10.1.40.232:3966 is $17640.145
+Processing message: <InsertCost><Cost>64016.094</Cost><AfterIndex>0</AfterIndex><TruckNumber>3</TruckNumber><Index>100</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>15720</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:15720; cost before: 64016.094
+Random cost generated for 10.1.40.232:15720; cost after: 64016.094
+Bid for customer  100 by 10.1.40.232:15720 is $64016.094
+Processing message: <InsertCost><Cost>56567.117</Cost><AfterIndex>96</AfterIndex><TruckNumber>3</TruckNumber><Index>100</Index><InternetAddress><IPAddress>10.1.40.232</IPAddress><PortNumber>6251</PortNumber></InternetAddress><CarrierCount>4</CarrierCount></InsertCost>
+Random cost generated for 10.1.40.232:6251; cost before: 56567.117
+Random cost generated for 10.1.40.232:6251; cost after: 56567.117
+Bid for customer  100 by 10.1.40.232:6251 is $56567.117
+Shipment 100 was accepted for carrier 10.1.40.232:3966
+Processing message: <Confirm><Index>100</Index></Confirm>
